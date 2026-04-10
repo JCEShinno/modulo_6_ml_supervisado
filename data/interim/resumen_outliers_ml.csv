@@ -1,0 +1,9 @@
+variable,limite_inferior,limite_superior,outliers_train_antes,outliers_train_despues,outliers_test_antes,outliers_test_despues
+edad,-8.0,96.0,0,0,0,0
+visitas_sitio_mes,-0.5,51.5,12,0,1,0
+paginas_vistas,-3.0,37.0,6,0,1,0
+tiempo_promedio_sitio_min,0.5275000000000007,19.147499999999997,14,0,1,0
+compras_previas,-2.0,14.0,1,0,0,0
+dias_desde_ultima_compra,-28.0,108.0,2,0,2,0
+score_fidelizacion,23.0,135.0,2,0,1,0
+carrito_abandonado_pct,3.1324999999999967,61.7725,2,0,2,0

@@ -1,0 +1,1201 @@
+id_cliente,edad,sexo,ciudad,segmento_cliente,canal_adquisicion,cliente_premium,usa_cupon,dispositivo,visitas_sitio_mes,paginas_vistas,tiempo_promedio_sitio_min,compras_previas,dias_desde_ultima_compra,score_fidelizacion,carrito_abandonado_pct,monto_promedio_compra
+10001,54.0,Mujer,La Serena,Bronce,Referido,No,Sí,Desktop,29,22,8.93,4,47,73.0,34.22,48320.04
+10002,66.0,Hombre,Rancagua,Oro,Referido,Sí,Sí,Mobile,33,34,15.52,7,39,97.0,33.62,88514.39
+10003,24.0,Hombre,Puerto Montt,Plata,Google Ads,Sí,No,Desktop,36,20,14.02,3,32,72.0,47.47,69605.84
+10004,45.0,Mujer,Concepción,Premium,Orgánico,No,No,Mobile,37,7,9.27,6,27,93.0,26.61,79815.09
+10005,53.0,Hombre,La Serena,Premium,Orgánico,No,No,Mobile,36,24,16.12,12,8,100.0,28.1,69923.19
+10006,52.0,Mujer,Santiago,Bronce,Referido,No,No,Desktop,15,15,10.39,4,92,48.0,19.0,36394.27
+10007,56.0,Mujer,La Serena,Premium,Referido,Sí,No,Desktop,30,23,13.94,6,23,100.0,16.35,76038.98
+10008,53.0,Mujer,Temuco,Oro,Email,No,Sí,Mobile,29,32,13.69,3,21,71.0,22.73,44397.94
+10009,27.0,Hombre,La Serena,Plata,Instagram,No,No,Tablet,15,8,10.59,6,16,83.0,36.54,23323.59
+10010,20.0,Hombre,Temuco,Bronce,Email,No,No,Mobile,25,15,15.8,4,76,70.0,29.42,49323.83
+10011,70.0,Mujer,Valparaíso,Oro,Orgánico,No,No,Mobile,38,13,8.76,6,76,65.0,23.36,47582.65
+10012,35.0,Hombre,Puerto Montt,Oro,Referido,No,No,Mobile,24,27,13.45,8,14,92.0,38.3,59758.13
+10013,48.0,Mujer,Temuco,Oro,Email,No,No,Mobile,25,17,9.9,8,24,100.0,23.15,59303.0
+10014,37.0,Mujer,Rancagua,Oro,Email,No,No,Desktop,41,20,7.77,6,56,75.0,21.62,67870.74
+10015,33.0,Mujer,Temuco,Plata,Google Ads,No,No,Desktop,28,10,7.51,5,46,55.0,16.9,52372.41
+10016,65.0,Mujer,Puerto Montt,Oro,Referido,Sí,No,Desktop,42,24,10.72,10,1,100.0,21.76,94500.2
+10017,67.0,Hombre,Rancagua,Bronce,Google Ads,Sí,Sí,Tablet,21,23,,6,31,100.0,36.39,54710.94
+10018,48.0,Hombre,La Serena,Premium,Orgánico,No,No,Tablet,42,32,16.56,10,19,96.0,16.11,114202.19
+10019,19.0,Mujer,Concepción,Bronce,Email,No,Sí,Mobile,22,11,6.96,4,32,80.0,31.35,48463.53
+10020,29.0,Mujer,La Serena,Bronce,Referido,No,Sí,Desktop,25,16,10.18,5,76,65.0,38.75,50469.19
+10021,58.0,Mujer,Antofagasta,Plata,Email,No,No,Desktop,20,16,6.31,8,1,79.0,27.62,51655.68
+10022,36.0,Hombre,Valparaíso,Bronce,Email,No,Sí,Desktop,22,8,12.09,9,28,86.0,41.08,42580.85
+10023,28.0,Mujer,Rancagua,Oro,Orgánico,No,No,Mobile,32,19,11.19,2,45,66.0,31.02,75714.52
+10024,67.0,Mujer,Rancagua,Plata,Referido,No,Sí,Mobile,28,20,11.3,8,20,86.0,17.85,46327.44
+10025,49.0,Mujer,Valparaíso,Plata,Orgánico,No,No,Mobile,22,9,10.4,6,28,70.0,11.46,72978.84
+10026,54.0,Mujer,Rancagua,Oro,Google Ads,No,No,Mobile,19,5,5.47,6,37,83.0,40.12,34518.01
+10027,38.0,Mujer,Rancagua,Oro,Google Ads,No,Sí,Mobile,21,16,11.39,7,1,100.0,20.25,73209.0
+10028,52.0,Hombre,Santiago,Bronce,Instagram,No,Sí,Mobile,31,18,9.77,5,59,84.0,46.05,60013.39
+10029,39.0,Hombre,Temuco,Oro,Instagram,No,No,Mobile,27,18,11.14,8,14,100.0,35.08,58911.18
+10030,21.0,Mujer,Concepción,Bronce,Orgánico,Sí,Sí,Mobile,31,29,18.23,9,0,88.0,33.25,77462.83
+10031,69.0,Mujer,Antofagasta,ORO,Email,No,No,Desktop,7,2,5.66,4,67,47.0,26.06,32755.86
+10032,51.0,Mujer,La Serena,Premium,Google Ads,No,No,Mobile,36,9,7.06,8,50,99.0,21.09,69468.16
+10033,24.0,Hombre,,Oro,EMAIL ,No,No,Desktop,30,15,9.51,7,39,100.0,19.79,63512.58
+10034,62.0,Mujer,,Plata,Email,No,No,Mobile,16,12,12.91,8,52,93.0,21.36,46404.96
+10035,66.0,Hombre,Rancagua,Premium,Orgánico,No,Sí,Mobile,38,14,7.56,7,35,100.0,24.14,96567.63
+10036,51.0,Mujer,Santiago,Bronce,Email,No,No,Desktop,27,8,7.78,8,48,77.0,33.68,53170.71
+10037,40.0,Mujer,Concepción,Plata,Google Ads,No,Sí,Mobile,29,24,8.2,4,55,66.0,44.83,48684.81
+10038,63.0,Mujer,Concepción,Plata,Referido,No,No,Mobile,28,4,9.76,5,49,57.0,51.17,42585.73
+10039,21.0,Hombre,Antofagasta,Bronce,Orgánico,No,No,Desktop,12,1,4.64,3,54,62.0,35.55,10714.88
+10040,33.0,Hombre,Valparaíso,Bronce,Google Ads,No,Sí,Desktop,14,4,8.55,6,81,91.0,18.35,31355.43
+10041,58.0,Mujer,Concepción,Premium,Orgánico,No,No,Mobile,30,18,8.3,4,42,70.0,20.4,40147.41
+10042,58.0,Hombre,Rancagua,Bronce,Orgánico,No,No,Tablet,22,19,7.37,1,105,41.0,43.96,24708.91
+10043,39.0,Hombre,Puerto Montt,Bronce,Google Ads,No,No,Mobile,10,13,7.05,5,38,63.0,41.2,44679.54
+10044,58.0,Hombre,Temuco,Oro,Google Ads,No,No,Mobile,27,23,11.17,5,48,84.0,40.21,38937.77
+10045,70.0,Hombre,Puerto Montt,Bronce,Email,No,Sí,Mobile,29,12,4.2,6,53,64.0,40.56,34361.87
+10046,28.0,Hombre,Rancagua,Bronce,Instagram,No,No,Mobile,15,15,11.33,4,56,50.0,21.3,12308.92
+10047,48.0,Hombre,Rancagua,Oro,Instagram,No,Sí,Mobile,37,23,11.4,9,14,100.0,36.82,93015.57
+10048,35.0,Mujer,Rancagua,Plata,Orgánico,No,Sí,Tablet,32,28,8.14,7,0,70.0,36.35,73012.87
+10049,,Mujer,Valparaíso,Oro,Google Ads,No,No,Desktop,24,1,3.81,5,23,81.0,22.99,44734.37
+10050,19.0,Hombre,Valparaíso,Plata,Google Ads,No,Sí,Desktop,21,15,13.16,9,41,80.0,28.07,71315.13
+10051,38.0,Mujer,Santiago,Bronce,Email,No,Sí,Mobile,18,28,12.13,3,60,64.0,37.82,41540.22
+10052,68.0,Hombre,Santiago,Premium,Referido,No,Sí,Mobile,47,34,20.8,9,0,100.0,19.79,119418.16
+10053,27.0,Mujer,Rancagua,Premium,Orgánico,No,No,Mobile,43,17,10.25,5,24,73.0,15.56,78854.94
+10054,58.0,Mujer,Santiago,Plata,Orgánico,No,Sí,Mobile,18,14,13.89,10,25,100.0,23.8,71404.83
+10055,42.0,Hombre,La Serena,Plata,Orgánico,No,No,Mobile,25,19,8.15,8,5,94.0,27.54,51823.49
+10056,33.0,Mujer,La Serena,Plata,Google Ads,No,No,Mobile,28,22,9.66,8,49,85.0,57.06,48841.09
+10057,56.0,Mujer,Puerto Montt,Oro,Email,No,No,tablet ,22,19,11.53,2,52,51.0,30.79,56220.54
+10058,59.0,Mujer,Antofagasta,Oro,Google Ads,No,No,Mobile,31,31,12.25,7,59,98.0,39.76,71153.39
+10059,56.0,Hombre,Concepción,Premium,Google Ads,No,No,Mobile,39,21,12.47,5,38,75.0,42.99,64001.71
+10060,49.0,Otro,La Serena,Oro,Email,No,No,Desktop,25,18,9.81,7,31,95.0,15.61,77477.04
+10061,69.0,Mujer,Rancagua,Bronce,Google Ads,No,Sí,Mobile,30,25,12.89,7,97,80.0,41.11,63788.63
+10062,37.0,Hombre,Antofagasta,Plata,Instagram,No,No,Desktop,27,15,11.2,12,73,100.0,6.11,77457.98
+10063,29.0,Mujer,Temuco,Oro,Orgánico,No,Sí,Desktop,24,12,7.76,4,18,85.0,27.88,45927.99
+10064,19.0,Hombre,Temuco,Bronce,Referido,No,Sí,Desktop,18,13,1.44,7,78,76.0,44.51,36545.67
+10065,37.0,Hombre,Rancagua,Premium,Orgánico,No,No,Desktop,43,32,10.93,7,39,100.0,17.87,87216.95
+10066,21.0,Hombre,Temuco,Oro,Instagram,No,No,Tablet,36,14,12.42,6,43,98.0,36.09,73311.83
+10067,63.0,Hombre,Antofagasta,Plata,Referido,No,No,Desktop,28,20,9.75,5,48,66.0,24.08,63820.49
+10068,41.0,Mujer,Puerto Montt,Plata,Referido,No,No,Tablet,27,18,10.22,7,26,71.0,26.02,51695.98
+10069,34.0,Mujer,Antofagasta,Bronce,Orgánico,No,No,Mobile,20,26,18.36,5,71,55.0,58.25,35029.99
+10070,51.0,Hombre,Concepción,Premium,Orgánico,Sí,Sí,Mobile,47,23,15.43,10,0,100.0,35.72,129536.84
+10071,46.0,Hombre,Valparaíso,Oro,Instagram,Sí,Sí,Mobile,33,22,18.46,8,19,100.0,40.79,103676.5
+10072,49.0,Hombre,Antofagasta,Plata,Email,No,No,Mobile,21,5,10.83,1,49,44.0,50.11,37895.72
+10073,42.0,Otro,Temuco,Bronce,Google Ads,No,No,Mobile,25,21,12.36,9,69,93.0,24.7,84056.29
+10074,70.0,Mujer,Valparaíso,Plata,Instagram,Sí,Sí,Mobile,25,25,13.54,6,16,100.0,34.1,59438.71
+10075,47.0,Mujer,La Serena,Bronce,Google Ads,No,No,Mobile,18,14,7.93,3,33,77.0,48.26,40508.47
+10076,53.0,Hombre,Santiago,Plata,Instagram,No,Sí,Mobile,26,8,6.21,5,27,65.0,56.82,52211.41
+10077,34.0,Mujer,Santiago,premium,Google Ads,No,Sí,Desktop,11,9,4.18,7,57,80.0,30.06,41827.51
+10078,22.0,Mujer,Santiago,Plata,Instagram,No,No,Desktop,13,11,7.64,2,80,60.0,18.82,12630.89
+10079,28.0,Hombre,Puerto Montt,Bronce,Orgánico,No,No,Mobile,6,4,1.69,2,60,53.0,39.74,14431.96
+10080,34.0,Hombre,Santiago,Oro,Google Ads,Sí,No,Mobile,34,29,14.94,8,36,77.0,22.8,84163.12
+10081,31.0,Mujer,Concepción,Premium,Orgánico,No,Sí,Desktop,49,29,8.01,9,7,100.0,13.6,120867.67
+10082,36.0,Mujer,Santiago,Plata,Orgánico,No,Sí,Mobile,24,23,8.88,7,9,95.0,44.34,41386.19
+10083,56.0,Hombre,santiago,Bronce,Email,Sí,No,Tablet,25,17,11.01,4,50,68.0,31.68,59506.18
+10084,36.0,Mujer,La Serena,Premium,Orgánico,Sí,No,Mobile,42,34,21.63,15,0,100.0,24.56,104731.05
+10085,34.0,Mujer,Valparaíso,Bronce,Orgánico,No,Sí,Mobile,19,19,9.16,1,73,22.0,26.97,17897.31
+10086,54.0,Mujer,Antofagasta,Premium,Instagram,No,Sí,Desktop,39,11,12.75,5,27,80.0,43.8,91970.62
+10087,24.0,Mujer,Temuco,Bronce,Instagram,No,Sí,Desktop,23,15,6.95,6,54,98.0,30.32,51310.38
+10088,26.0,Mujer,Concepción,Plata,Instagram,No,No,Mobile,17,10,2.65,6,32,81.0,12.04,44108.48
+10089,55.0,Mujer,Rancagua,Oro,Email,Sí,Sí,Desktop,42,22,16.85,11,0,100.0,42.67,114710.48
+10090,43.0,Hombre,Antofagasta,Plata,Orgánico,No,Sí,Desktop,37,16,7.42,6,36,88.0,15.58,69450.36
+10091,62.0,Mujer,Temuco,Oro,Referido,No,Sí,Mobile,21,12,8.42,7,14,100.0,31.35,70047.57
+10092,25.0,Mujer,Antofagasta,Plata,Email,No,Sí,Desktop,27,22,10.78,4,88,59.0,27.42,76044.13
+10093,25.0,Mujer,Concepción,Plata,Referido,Sí,No,Mobile,23,12,6.23,9,17,99.0,34.56,57666.7
+10094,23.0,Otro,Temuco,Plata,Google Ads,Sí,No,Tablet,35,12,10.99,9,0,94.0,33.41,66484.9
+10095,51.0,Mujer,Valparaíso,Bronce,Orgánico,No,No,Mobile,20,11,11.15,4,32,60.0,33.55,56783.37
+10096,26.0,Mujer,Valparaíso,Bronce,Orgánico,No,No,Mobile,20,16,10.51,7,64,62.0,45.08,35676.46
+10097,57.0,Otro,Puerto Montt,Plata,Email,Sí,No,Mobile,40,23,17.35,9,32,100.0,8.54,114683.04
+10098,44.0,Hombre,Santiago,Oro,Email,No,No,Mobile,24,6,8.54,6,11,89.0,24.46,60055.86
+10099,48.0,Mujer,La Serena,Bronce,Google Ads,No,No,Mobile,10,9,2.92,7,41,86.0,27.91,16382.22
+10100,,Mujer,Antofagasta,Premium,Google Ads,No,Sí,Desktop,120,42,15.34,12,0,100.0,41.41,409286.3
+10101,19.0,Mujer,Antofagasta,Bronce,Orgánico,Sí,Sí,Desktop,12,11,9.25,10,24,97.0,42.62,41044.29
+10102,31.0,Hombre,Antofagasta,Bronce,Google Ads,Sí,Sí,Desktop,35,17,,9,22,100.0,32.05,75132.45
+10103,52.0,Hombre,Concepción,Plata,Orgánico,No,No,Mobile,22,6,8.34,4,4,75.0,51.84,32886.23
+10104,61.0,Mujer,La Serena,Plata,Google Ads,Sí,Sí,Mobile,16,1,6.44,5,44,99.0,35.89,53236.65
+10105,20.0,Mujer,,Plata,Orgánico,Sí,Sí,Desktop,40,21,16.93,10,9,100.0,36.63,103980.1
+10106,30.0,Hombre,Santiago,Plata,Google Ads,Sí,No,Mobile,27,27,14.13,9,8,100.0,23.71,63936.5
+10107,44.0,Mujer,Rancagua,Bronce,Referido,No,No,Desktop,12,10,6.2,3,80,48.0,31.02,26889.04
+10108,49.0,Hombre,Santiago,Plata,Instagram,No,No,Mobile,17,12,11.7,6,54,71.0,18.13,30162.73
+10109,43.0,Hombre,Temuco,Oro,Google Ads,Sí,No,Tablet,33,26,16.31,11,12,100.0,41.36,108811.44
+10110,28.0,Mujer,,Oro,Instagram,No,No,Mobile,28,16,4.24,8,0,100.0,37.97,64559.08
+10111,56.0,Hombre,La Serena,Bronce,Instagram,No,No,Mobile,14,16,4.5,5,67,67.0,20.93,18693.23
+10112,19.0,Hombre,Temuco,Premium,Google Ads,No,Sí,Mobile,32,17,10.06,6,46,,40.96,78479.83
+10113,67.0,Mujer,Temuco,Oro,Orgánico,No,No,Mobile,28,19,8.86,8,0,96.0,21.89,83189.9
+10114,35.0,Hombre,Antofagasta,Bronce,Instagram,No,No,Mobile,18,22,10.9,4,66,65.0,41.06,40251.15
+10115,34.0,Otro,Rancagua,Bronce,Orgánico,No,Sí,Mobile,27,18,3.77,7,43,76.0,37.51,57962.44
+10116,50.0,Otro,Antofagasta,Premium,Orgánico,No,Sí,Desktop,44,33,17.19,11,13,100.0,47.56,115639.98
+10117,39.0,Mujer,Puerto Montt,Plata,Instagram,No,No,Mobile,35,20,14.25,9,19,100.0,22.81,88012.19
+10118,48.0,Mujer,Antofagasta,Bronce,Orgánico,No,No,Mobile,27,11,9.8,8,20,88.0,36.76,52512.5
+10119,32.0,Mujer,Puerto Montt,Plata,Instagram,No,No,Desktop,20,10,9.99,4,36,66.0,21.5,40695.06
+10120,64.0,Mujer,La Serena,Premium,Google Ads,No,No,Tablet,41,24,18.3,9,55,100.0,44.23,60274.26
+10121,19.0,Hombre,Santiago,Bronce,Email,No,No,Desktop,11,13,7.76,3,74,73.0,33.56,23331.34
+10122,55.0,Hombre,La Serena,Plata,Orgánico,No,Sí,Mobile,13,18,6.12,8,26,76.0,30.26,62903.3
+10123,55.0,Otro,Puerto Montt,Oro,Orgánico,No,No,Desktop,25,15,9.11,3,56,66.0,31.24,55649.56
+10124,35.0,Mujer,Valparaíso,Plata,Google Ads,Sí,No,Mobile,34,21,12.05,7,27,86.0,30.25,84996.84
+10125,43.0,Mujer,La Serena,Bronce,Google Ads,No,No,Mobile,20,16,8.32,6,90,82.0,25.79,54040.13
+10126,18.0,Mujer,Rancagua,Plata,Email,No,Sí,Desktop,27,10,7.69,8,41,100.0,38.4,58121.69
+10127,21.0,Mujer,Rancagua,Oro,Orgánico,Sí,Sí,Mobile,105,42,16.44,5,39,81.0,28.92,333588.78
+10128,62.0,Hombre,Santiago,Bronce,Instagram,No,No,Mobile,13,4,2.95,3,72,67.0,33.62,34684.41
+10129,60.0,Hombre,La Serena,Oro,Orgánico,No,No,Desktop,32,19,8.61,7,22,85.0,31.04,91553.59
+10130,64.0,Hombre,Antofagasta,Bronce,Email,No,No,Mobile,16,3,6.24,8,27,67.0,11.38,40092.36
+10131,60.0,Hombre,Antofagasta,Bronce,Referido,No,No,Mobile,16,8,6.88,4,59,54.0,47.32,29992.57
+10132,64.0,Hombre,Temuco,Bronce,Referido,No,Sí,Mobile,26,25,13.32,5,0,88.0,43.3,68167.22
+10133,64.0,Mujer,Rancagua,Oro,Orgánico,No,No,Desktop,31,17,13.92,5,20,78.0,31.44,71878.66
+10134,44.0,Hombre,Puerto Montt,Bronce,Google Ads,No,Sí,Mobile,10,12,10.1,3,49,59.0,30.55,23505.49
+10135,28.0,Mujer,Puerto Montt,Premium,Orgánico,No,Sí,Mobile,39,27,8.45,11,0,100.0,47.16,96049.28
+10136,53.0,Mujer,La Serena,Bronce,Email,No,No,Tablet,36,23,11.8,7,56,71.0,26.89,78131.74
+10137,60.0,Hombre,La Serena,Oro,Referido,No,No,Mobile,34,20,8.34,9,47,93.0,34.85,62754.28
+10138,39.0,Mujer,La Serena,Oro,Orgánico,No,Sí,Mobile,27,20,12.26,7,31,81.0,30.87,51706.72
+10139,18.0,Mujer,Puerto Montt,Premium,Instagram,No,Sí,Desktop,35,21,12.72,11,0,100.0,38.53,97912.32
+10140,55.0,Hombre,Antofagasta,Oro,Referido,Sí,Sí,Desktop,35,30,12.27,7,4,86.0,15.7,77127.42
+10141,60.0,Hombre,Santiago,Oro,Email,Sí,No,Desktop,56,43,13.08,6,32,97.0,9.92,125664.96
+10142,68.0,Mujer,Rancagua,Premium,Orgánico,No,Sí,Desktop,43,12,10.36,7,0,97.0,46.03,90875.99
+10143,57.0,Hombre,Rancagua,Oro,Google Ads,Sí,Sí,Desktop,36,20,5.27,7,0,100.0,28.24,83768.56
+10144,27.0,Hombre,Rancagua,Bronce,Google Ads,No,Sí,Desktop,18,11,4.72,1,76,39.0,48.61,15783.53
+10145,38.0,Hombre,Temuco,Bronce,Orgánico,No,No,Desktop,24,20,8.83,8,30,88.0,40.04,37603.13
+10146,52.0,Mujer,,Oro,Orgánico,No,Sí,Desktop,28,20,15.56,5,28,81.0,32.02,55763.91
+10147,35.0,Mujer,Antofagasta,Bronce,Google Ads,No,Sí,Mobile,39,17,8.53,6,50,57.0,26.78,74731.51
+10148,69.0,Hombre,Valparaíso,Oro,Instagram,Sí,No,Desktop,45,28,17.74,7,61,94.0,19.32,91526.54
+10149,66.0,Hombre,Valparaíso,Plata,Referido,No,Sí,Mobile,30,12,11.1,11,19,100.0,42.81,64278.48
+10150,42.0,Hombre,La Serena,Premium,Email,No,Sí,Tablet,26,16,6.09,4,33,83.0,45.93,46693.43
+10151,18.0,Mujer,Valparaíso,Plata,Referido,No,No,Mobile,11,16,3.89,5,52,69.0,14.87,52151.12
+10152,45.0,Mujer,Concepción,Bronce,Email,No,No,Desktop,17,8,7.79,6,42,74.0,39.68,19242.79
+10153,40.0,Mujer,Temuco,Oro,Referido,No,No,Mobile,38,25,20.13,8,38,82.0,43.32,76549.41
+10154,63.0,Hombre,Antofagasta,Bronce,Instagram,No,Sí,Desktop,16,14,9.35,7,74,85.0,24.39,35607.27
+10155,56.0,Mujer,La Serena,Bronce,Orgánico,No,No,Desktop,30,17,5.35,6,50,81.0,0.0,45934.76
+10156,56.0,Hombre,Puerto Montt,Bronce,Instagram,No,No,Desktop,20,13,6.94,8,37,78.0,17.12,50537.27
+10157,24.0,Hombre,Rancagua,Bronce,Orgánico,Sí,No,Desktop,11,9,11.77,5,34,75.0,37.94,52177.33
+10158,44.0,Mujer,Antofagasta,Plata,Google Ads,No,Sí,Tablet,35,19,12.51,14,0,100.0,13.33,84532.79
+10159,43.0,Mujer,Antofagasta,Plata,Instagram,No,Sí,Mobile,38,17,8.69,7,16,76.0,51.3,83782.53
+10160,52.0,Mujer,Antofagasta,Plata,Google Ads,No,No,Desktop,12,23,8.33,4,48,60.0,33.7,55607.65
+10161,27.0,Mujer,La Serena,Premium,Email,No,No,Tablet,32,17,11.3,6,43,100.0,23.6,87299.45
+10162,23.0,Hombre,Valparaíso,Plata,Instagram,No,No,Mobile,23,20,12.44,8,40,89.0,14.55,77287.07
+10163,62.0,Hombre,Antofagasta,Premium,Instagram,No,Sí,Mobile,42,17,9.99,10,32,100.0,34.44,90407.21
+10164,58.0,Otro,La Serena,Oro,Referido,No,No,Desktop,26,6,7.03,3,40,73.0,28.91,45376.4
+10165,56.0,Hombre,Temuco,Oro,Instagram,No,No,Mobile,37,20,12.77,7,56,86.0,37.33,67028.11
+10166,60.0,Mujer,Puerto Montt,Oro,Referido,Sí,No,Desktop,47,20,9.83,10,0,100.0,20.55,110974.71
+10167,29.0,Hombre,Santiago,Bronce,Orgánico,Sí,No,Tablet,19,12,15.89,6,26,81.0,21.13,26642.41
+10168,49.0,Mujer,Santiago,Plata,Google Ads,No,No,Desktop,27,16,10.4,5,18,80.0,34.16,80023.02
+10169,52.0,Hombre,Puerto Montt,Plata,Instagram,No,Sí,Mobile,27,6,5.98,8,54,81.0,29.25,55329.57
+10170,55.0,Mujer,Rancagua,Bronce,Email,No,Sí,Mobile,23,18,7.95,6,98,50.0,25.13,52117.55
+10171,31.0,Hombre,Valparaíso,Bronce,Google Ads,No,No,Mobile,23,10,7.2,8,76,71.0,35.77,48023.38
+10172,67.0,Hombre,Rancagua,Bronce,Google Ads,Sí,No,Mobile,15,18,8.69,6,27,86.0,25.47,58459.55
+10173,63.0,Hombre,La Serena,Premium,Referido,No,No,Desktop,28,6,8.11,5,24,86.0,22.67,54484.02
+10174,65.0,Mujer,Antofagasta,Bronce,Referido,No,No,Mobile,22,6,8.38,4,80,61.0,37.44,34742.41
+10175,33.0,Mujer,Rancagua,Bronce,Instagram,No,No,Mobile,5,14,5.35,4,91,69.0,21.62,34958.84
+10176,66.0,Mujer,Concepción,Bronce,Google Ads,No,No,Mobile,25,10,8.43,9,17,88.0,32.9,64621.43
+10177,48.0,Mujer,Temuco,Bronce,Instagram,No,Sí,Mobile,13,1,0.5,1,35,39.0,31.08,24383.67
+10178,24.0,Mujer,La Serena,Plata,Orgánico,No,No,Mobile,20,9,7.76,5,40,69.0,32.5,10507.88
+10179,52.0,Mujer,La Serena,Premium,Instagram,No,No,Desktop,23,12,7.55,5,44,66.0,29.96,55598.62
+10180,68.0,Mujer,Temuco,Plata,Orgánico,No,Sí,Desktop,14,12,8.76,4,23,75.0,37.89,47008.09
+10181,30.0,Hombre,Rancagua,Bronce,Email,No,Sí,Mobile,18,16,3.26,1,107,50.0,51.71,20029.11
+10182,45.0,Mujer,Temuco,Plata,Google Ads,No,No,Mobile,11,12,8.28,4,35,68.0,34.93,29427.4
+10183,22.0,Hombre,Concepción,Plata,Orgánico,Sí,No,Mobile,27,22,8.94,6,16,87.0,59.81,70998.08
+10184,62.0,Mujer,Valparaíso,Bronce,Orgánico,No,No,Mobile,19,17,10.06,5,67,76.0,32.79,69178.35
+10185,24.0,Hombre,Santiago,Plata,Referido,Sí,No,Desktop,37,27,12.96,10,16,100.0,45.78,90404.45
+10186,34.0,Hombre,Antofagasta,Plata,Google Ads,No,No,Mobile,20,18,7.98,5,56,47.0,42.03,38029.11
+10187,61.0,Mujer,Puerto Montt,Bronce,Referido,No,No,Desktop,26,13,9.86,7,24,95.0,45.42,36658.92
+10188,29.0,Hombre,Rancagua,Bronce,Google Ads,No,Sí,Mobile,19,6,6.11,4,63,56.0,46.32,29948.0
+10189,25.0,Mujer,Rancagua,Plata,Referido,No,No,Mobile,22,13,8.74,4,96,47.0,35.73,42471.81
+10190,35.0,Mujer,Temuco,Bronce,Google Ads,No,Sí,Desktop,17,18,6.7,3,20,63.0,34.93,46930.28
+10191,57.0,Hombre,Temuco,Bronce,Orgánico,No,No,Desktop,17,17,9.47,8,70,63.0,65.52,44394.09
+10192,24.0,Hombre,La Serena,Plata,Email,No,No,Desktop,20,7,7.4,6,46,81.0,13.36,56990.48
+10193,63.0,Mujer,Concepción,Oro,Orgánico,No,Sí,Mobile,30,10,7.98,10,16,90.0,37.76,84161.48
+10194,18.0,Mujer,Puerto Montt,Plata,Instagram,Sí,No,Desktop,30,28,16.47,8,0,90.0,38.27,73344.15
+10195,33.0,Hombre,Concepción,Plata,Email,No,No,Mobile,31,18,12.1,7,31,77.0,30.02,83778.13
+10196,34.0,Mujer,Valparaíso,Oro,Orgánico,No,Sí,Mobile,27,14,10.57,6,31,73.0,25.76,73582.14
+10197,51.0,Mujer,Valparaíso,Bronce,Instagram,No,No,Desktop,22,8,9.13,13,28,100.0,17.85,61691.34
+10198,39.0,Mujer,Temuco,Oro,Orgánico,No,Sí,Mobile,31,14,8.92,5,59,65.0,43.86,45002.0
+10199,21.0,Hombre,Temuco,Plata,Orgánico,No,Sí,Mobile,25,11,6.38,5,53,73.0,27.62,45345.08
+10200,45.0,Hombre,Valparaíso,Plata,Google Ads,No,No,Desktop,20,11,8.42,7,47,80.0,42.13,25921.19
+10201,62.0,Hombre,Concepción,Plata,Referido,Sí,Sí,Mobile,27,14,9.34,12,45,100.0,30.52,49388.83
+10202,36.0,Hombre,Antofagasta,Bronce,Google Ads,No,No,Mobile,1,5,8.15,2,40,59.0,45.64,48619.22
+10203,70.0,Hombre,La Serena,Plata,Instagram,No,No,Mobile,30,6,4.38,10,30,97.0,25.69,72424.49
+10204,23.0,Hombre,Antofagasta,Bronce,Referido,Sí,Sí,Mobile,31,26,15.04,8,0,100.0,24.47,79840.87
+10205,53.0,Hombre,Antofagasta,Oro,Google Ads,Sí,No,Desktop,45,28,11.96,7,45,97.0,49.0,84958.54
+10206,56.0,Mujer,Santiago,Bronce,Email,No,Sí,Tablet,20,17,9.69,5,71,65.0,34.68,42422.37
+10207,69.0,Mujer,Valparaíso,Plata,Google Ads,No,No,Mobile,22,18,11.13,7,22,84.0,39.05,67587.16
+10208,54.0,Hombre,La Serena,Bronce,Referido,No,No,Mobile,57,22,6.16,5,79,71.0,32.1,195390.0
+10209,35.0,Hombre,Valparaíso,Bronce,Email,Sí,No,Desktop,32,26,14.12,8,73,100.0,7.24,89578.6
+10210,32.0,Hombre,Temuco,Bronce,Email,Sí,No,Mobile,25,16,16.31,3,60,52.0,31.54,67138.48
+10211,65.0,Hombre,Antofagasta,Plata,Orgánico,No,No,Mobile,19,19,10.54,5,58,67.0,32.36,50366.11
+10212,57.0,Hombre,Puerto Montt,Oro,Orgánico,No,No,Mobile,21,24,8.77,2,69,63.0,36.59,56297.42
+10213,32.0,Mujer,La Serena,ORO,Instagram,No,No,Desktop,21,10,8.77,8,20,83.0,15.58,55795.03
+10214,33.0,Hombre,Concepción,Oro,Orgánico,No,No,Desktop,37,22,15.96,5,41,69.0,13.23,72585.69
+10215,18.0,Mujer,Temuco,Bronce,Orgánico,Sí,No,Desktop,25,12,9.35,7,18,96.0,24.36,66239.55
+10216,19.0,Hombre,Concepción,Oro,Email,No,No,Desktop,37,11,8.81,6,42,88.0,37.06,82591.84
+10217,43.0,Hombre,Antofagasta,Bronce,Orgánico,Sí,No,Mobile,35,28,17.49,6,30,83.0,38.81,70943.96
+10218,38.0,Hombre,Antofagasta,Bronce,Orgánico,Sí,No,Mobile,24,13,8.4,6,70,76.0,39.43,51747.57
+10219,19.0,Hombre,Concepción,Bronce,Instagram,No,Sí,Mobile,27,13,14.01,2,65,52.0,22.72,54384.49
+10220,41.0,Hombre,Puerto Montt,Oro,Email,Sí,No,Mobile,34,28,13.09,3,49,48.0,41.06,55920.7
+10221,28.0,Hombre,Concepción,Plata,Instagram,No,No,Mobile,28,12,7.78,3,63,64.0,25.32,40125.84
+10222,48.0,Mujer,Santiago,Bronce,Orgánico,No,No,Mobile,13,20,7.63,6,62,77.0,35.59,22071.38
+10223,26.0,Mujer,Temuco,Plata,Google Ads,No,No,Mobile,8,9,1.74,4,77,74.0,40.1,14055.47
+10224,50.0,Mujer,Antofagasta,Bronce,Orgánico,No,Sí,Mobile,24,19,9.15,6,31,80.0,38.37,60165.91
+10225,43.0,Hombre,Santiago,Premium,Google Ads,Sí,No,Mobile,46,39,14.95,12,6,100.0,26.5,104005.55
+10226,34.0,Mujer,Concepción,Premium,Instagram,No,Sí,Mobile,33,34,13.82,8,0,100.0,42.51,106808.09
+10227,38.0,Hombre,Concepción,Bronce,Instagram,No,Sí,Desktop,12,11,1.86,0,45,43.0,34.28,19539.57
+10228,39.0,Mujer,Puerto Montt,Bronce,Instagram,No,No,Tablet,18,17,5.0,3,23,67.0,28.43,25405.57
+10229,49.0,Mujer,Temuco,Bronce,Google Ads,Sí,Sí,Mobile,18,12,16.56,8,17,70.0,45.91,81241.77
+10230,27.0,Hombre,Temuco,Bronce,Google Ads,No,No,Mobile,15,22,14.18,4,33,51.0,51.56,35324.17
+10231,31.0,Mujer,Valparaíso,Oro,Google Ads,No,No,Desktop,42,10,8.69,9,12,89.0,27.24,60772.25
+10232,70.0,Hombre,La Serena,Oro,Orgánico,Sí,No,Desktop,45,25,14.13,11,19,100.0,22.16,108480.51
+10233,24.0,Mujer,Valparaíso,Plata,Email,Sí,Sí,Mobile,32,21,11.22,9,23,90.0,24.55,63873.49
+10234,35.0,Hombre,La Serena,Oro,Email,Sí,No,Mobile,36,22,14.42,7,20,98.0,28.07,75982.89
+10235,26.0,Hombre,Concepción,Plata,google ads,No,No,Mobile,28,25,6.73,8,24,90.0,26.97,49922.33
+10236,32.0,Mujer,Valparaíso,Bronce,Referido,No,Sí,Desktop,27,19,9.51,6,31,74.0,28.68,67279.48
+10237,52.0,Mujer,Valparaíso,Plata,Instagram,Sí,No,Desktop,36,24,16.08,5,22,80.0,52.27,98095.59
+10238,69.0,Mujer,Rancagua,Bronce,Google Ads,No,Sí,Desktop,7,11,10.24,6,41,85.0,25.24,47557.35
+10239,51.0,Hombre,Valparaíso,Bronce,Referido,No,No,Mobile,22,1,6.04,3,62,48.0,21.73,19258.99
+10240,55.0,Hombre,Rancagua,Premium,Google Ads,Sí,No,Desktop,51,24,15.1,11,0,100.0,29.49,116384.65
+10241,18.0,Mujer,Valparaíso,Plata,Orgánico,No,Sí,Mobile,16,1,3.49,1,52,39.0,44.88,23091.25
+10242,70.0,Hombre,Valparaíso,Bronce,Email,Sí,Sí,Desktop,22,24,9.09,1,41,45.0,44.58,45384.02
+10243,60.0,Mujer,La Serena,Bronce,Referido,Sí,Sí,Tablet,21,11,7.77,4,53,82.0,42.04,42917.49
+10244,52.0,Otro,La Serena,Bronce,Referido,No,No,Desktop,6,7,7.49,5,40,92.0,22.76,36153.26
+10245,54.0,Mujer,Antofagasta,Plata,Orgánico,No,Sí,Mobile,23,6,5.31,7,63,,44.54,43442.27
+10246,42.0,Mujer,Santiago,Plata,Google Ads,Sí,No,Desktop,34,22,14.6,6,0,86.0,22.04,89814.76
+10247,22.0,Mujer,La Serena,Oro,Orgánico,No,Sí,Mobile,18,15,10.03,3,71,60.0,41.21,15000.38
+10248,70.0,Mujer,Santiago,Bronce,Orgánico,No,No,Mobile,22,7,8.05,7,76,62.0,42.5,30707.63
+10249,21.0,Mujer,Puerto Montt,Bronce,Email,No,No,Mobile,28,26,10.56,2,70,41.0,44.1,45549.46
+10250,55.0,Hombre,Puerto Montt,Plata,Referido,No,Sí,Desktop,26,13,3.77,7,64,83.0,41.96,50161.7
+10251,45.0,Mujer,Concepción,Premium,Google Ads,Sí,Sí,Tablet,51,35,19.44,8,13,100.0,10.59,150165.59
+10252,54.0,Hombre,Rancagua,Bronce,Google Ads,No,No,Mobile,40,30,18.58,6,93,63.0,21.64,94703.4
+10253,43.0,Hombre,Puerto Montt,Bronce,Orgánico,No,No,Mobile,20,19,11.14,5,30,,38.37,31882.32
+10254,62.0,Hombre,Santiago,Oro,Orgánico,No,Sí,Tablet,25,12,7.91,7,0,94.0,28.73,78058.0
+10255,69.0,Mujer,Rancagua,Premium,Google Ads,No,Sí,Mobile,39,22,7.19,4,29,86.0,38.41,75813.01
+10256,58.0,Mujer,Valparaíso,Oro,Email,Sí,Sí,Mobile,35,31,14.59,7,26,90.0,25.09,83269.03
+10257,34.0,Hombre,Valparaíso,Bronce,Instagram,Sí,No,Mobile,16,1,4.71,3,94,72.0,31.11,56800.88
+10258,44.0,Hombre,La Serena,Premium,Instagram,Sí,No,Desktop,44,24,15.92,10,19,,34.1,82734.91
+10259,56.0,Hombre,Rancagua,Premium,Referido,No,No,Tablet,27,13,6.04,8,31,100.0,24.94,53540.21
+10260,70.0,Hombre,Antofagasta,Plata,Referido,No,Sí,Mobile,20,14,11.44,4,48,65.0,35.89,51541.84
+10261,67.0,Mujer,Santiago,Plata,Instagram,No,No,Desktop,24,13,11.42,7,62,68.0,44.29,23743.85
+10262,31.0,Mujer,Rancagua,Plata,Orgánico,No,No,Mobile,22,14,5.48,2,83,66.0,30.61,42037.75
+10263,39.0,Hombre,Valparaíso,Oro,Orgánico,No,Sí,Desktop,42,18,11.64,8,22,86.0,34.34,100943.28
+10264,57.0,Mujer,Rancagua,Premium,Referido,No,Sí,Desktop,35,16,11.96,3,74,76.0,27.05,53553.24
+10265,29.0,Mujer,Rancagua,Bronce,Instagram,No,Sí,Tablet,8,14,2.43,9,23,75.0,14.71,43246.12
+10266,68.0,Hombre,Santiago,Plata,Instagram,No,Sí,Desktop,26,14,8.26,4,92,63.0,15.83,36177.4
+10267,19.0,Hombre,Puerto Montt,Premium,Referido,No,No,Mobile,37,23,13.98,6,13,79.0,49.26,97789.49
+10268,46.0,Mujer,La Serena,Premium,Google Ads,Sí,Sí,Tablet,90,38,11.27,2,33,88.0,48.38,171057.08
+10269,45.0,Mujer,Rancagua,Premium,Orgánico,No,No,Mobile,25,7,11.44,4,23,92.0,28.57,39471.27
+10270,21.0,Mujer,Rancagua,Bronce,Google Ads,Sí,No,Mobile,24,12,12.79,9,16,66.0,18.26,76919.66
+10271,37.0,Hombre,Antofagasta,Bronce,Email,No,Sí,Mobile,7,12,8.63,6,50,74.0,33.43,22835.21
+10272,41.0,Mujer,Rancagua,Bronce,Instagram,No,No,Mobile,14,9,8.59,4,72,49.0,27.93,53423.63
+10273,60.0,Hombre,Rancagua,Plata,Orgánico,No,No,Mobile,23,23,18.78,8,27,83.0,37.71,58331.84
+10274,57.0,Mujer,Temuco,Bronce,Google Ads,No,No,Mobile,12,13,6.01,1,78,32.0,11.4,25300.72
+10275,20.0,Hombre,Antofagasta,Bronce,Orgánico,No,No,Mobile,20,10,5.75,7,56,67.0,39.85,39102.14
+10276,52.0,Hombre,Concepción,Oro,Instagram,No,No,Mobile,34,23,7.23,4,54,79.0,20.52,35251.02
+10277,64.0,Otro,Rancagua,Bronce,Google Ads,Sí,Sí,Desktop,25,18,8.76,7,0,100.0,18.38,55428.77
+10278,32.0,Mujer,Concepción,Premium,Google Ads,No,No,Mobile,32,18,7.07,9,6,100.0,18.11,90700.44
+10279,31.0,Mujer,Puerto Montt,Oro,Instagram,Sí,Sí,Mobile,36,24,5.06,7,36,100.0,37.75,70753.62
+10280,40.0,Hombre,Rancagua,Bronce,Instagram,No,No,Mobile,18,24,9.18,3,82,51.0,35.95,21393.82
+10281,61.0,Mujer,Puerto Montt,Plata,Email,No,Sí,Desktop,30,18,8.61,8,37,98.0,16.01,64633.76
+10282,39.0,Mujer,Valparaíso,Oro,Instagram,No,No,Mobile,33,11,10.92,11,33,95.0,32.59,60955.71
+10283,27.0,Mujer,Temuco,Bronce,Google Ads,No,Sí,Mobile,25,14,6.63,5,38,93.0,14.95,45959.22
+10284,63.0,Mujer,Santiago,Bronce,Email,Sí,No,Desktop,32,28,11.55,10,0,100.0,12.45,72839.14
+10285,62.0,Hombre,Antofagasta,Premium,Referido,Sí,Sí,Desktop,45,29,9.6,8,4,85.0,43.12,91182.81
+10286,68.0,Mujer,Valparaíso,Oro,Email,No,Sí,Mobile,32,14,6.75,10,38,82.0,38.03,63408.46
+10287,30.0,Hombre,Santiago,Plata,Referido,No,No,Tablet,20,14,11.85,8,53,,33.45,52851.61
+10288,27.0,Hombre,Santiago,Oro,Orgánico,Sí,No,Desktop,49,27,17.62,12,9,100.0,34.15,126623.45
+10289,51.0,Otro,Puerto Montt,Oro,Referido,No,Sí,Desktop,34,24,11.45,7,42,88.0,39.48,57323.52
+10290,64.0,Hombre,La Serena,Bronce,Google Ads,No,Sí,Mobile,20,7,5.53,4,51,54.0,45.42,72300.44
+10291,22.0,Hombre,Concepción,Bronce,Orgánico,No,Sí,Mobile,17,12,10.55,8,29,74.0,35.46,42464.64
+10292,57.0,Hombre,Temuco,Oro,Referido,Sí,No,Desktop,36,33,16.45,9,0,100.0,31.13,79688.03
+10293,65.0,Mujer,Santiago,Plata,Email,No,Sí,Desktop,26,16,7.02,7,52,68.0,23.99,49389.25
+10294,69.0,Hombre,Valparaíso ,Bronce,Referido,Sí,Sí,Mobile,23,8,14.15,7,37,59.0,45.89,66715.02
+10295,68.0,Hombre,Santiago,Plata,Email,No,No,Mobile,25,17,13.07,9,19,89.0,44.15,64579.99
+10296,64.0,Hombre,Santiago,Bronce,Email,No,No,Mobile,14,13,8.49,8,0,100.0,28.9,62712.26
+10297,18.0,Mujer,Antofagasta,Bronce,Instagram,Sí,Sí,Desktop,24,24,17.23,10,5,94.0,20.35,81046.05
+10298,68.0,Mujer,Concepción,Premium,Google Ads,No,No,Mobile,36,24,11.9,8,34,100.0,45.51,86274.21
+10299,59.0,Hombre,Rancagua,Oro,Orgánico,No,No,Desktop,45,31,11.45,7,64,87.0,35.87,74619.77
+10300,39.0,Hombre,Puerto Montt,Bronce,Google Ads,No,No,Mobile,28,15,8.78,4,52,65.0,18.52,65467.62
+10301,29.0,Mujer,Santiago,Bronce,Orgánico,No,No,Mobile,5,7,4.41,4,55,73.0,6.94,40058.95
+10302,56.0,Mujer,Concepción,Plata,Email,Sí,No,Mobile,33,4,11.3,9,41,100.0,42.96,61972.5
+10303,53.0,Mujer,La Serena,Oro,Email,No,No,Mobile,25,22,11.23,6,33,88.0,42.75,50293.4
+10304,39.0,Mujer,Rancagua,Bronce,Email,No,Sí,Tablet,19,15,5.4,5,39,75.0,22.41,34488.74
+10305,43.0,Hombre,La Serena,Premium,Instagram,No,No,Mobile,21,15,8.94,4,50,66.0,27.84,44392.82
+10306,48.0,Mujer,Valparaíso,Plata,Referido,No,No,Mobile,18,12,4.72,5,68,77.0,38.74,42111.79
+10307,37.0,Mujer,Puerto Montt,Plata,Orgánico,Sí,Sí,Mobile,34,28,9.43,6,44,89.0,33.51,86480.32
+10308,,Mujer,Concepción,Plata,Referido,No,Sí,Mobile,21,16,9.76,3,58,73.0,54.01,40233.77
+10309,29.0,Hombre,La Serena,Bronce,Orgánico,No,Sí,Mobile,5,1,7.66,2,53,58.0,31.9,25275.99
+10310,69.0,Mujer,Rancagua,Plata,Referido,Sí,No,Desktop,36,25,16.59,8,36,100.0,35.73,73674.39
+10311,53.0,Hombre,Santiago,Bronce,Orgánico,No,Sí,Mobile,13,18,6.87,2,56,46.0,44.2,33676.85
+10312,49.0,Mujer,La Serena,Plata,Orgánico,No,Sí,Mobile,19,19,6.76,4,53,88.0,43.19,49155.88
+10313,55.0,Hombre,Santiago,Bronce,Instagram,No,No,Desktop,19,8,8.19,0,111,25.0,46.76,19750.73
+10314,62.0,Hombre,Puerto Montt,Bronce,Instagram,No,No,Desktop,15,12,8.51,4,112,66.0,40.41,25476.73
+10315,19.0,Mujer,La Serena,Bronce,Referido,No,Sí,Desktop,24,12,9.27,4,58,79.0,23.38,40692.24
+10316,21.0,Mujer,Valparaíso,Oro,Email,No,No,Tablet,35,13,6.84,4,58,70.0,40.2,57375.61
+10317,41.0,Hombre,Antofagasta,Oro,Referido,No,No,Tablet,28,28,14.53,6,10,86.0,51.96,89651.96
+10318,59.0,Hombre,Santiago,Bronce,Referido,Sí,Sí,Desktop,28,15,15.77,10,25,100.0,39.14,97397.9
+10319,28.0,Mujer,Valparaíso,Premium,Orgánico,Sí,No,Mobile,34,24,13.62,7,3,92.0,39.16,87522.05
+10320,49.0,Mujer,Valparaíso,Oro,Email,No,Sí,Mobile,28,19,15.11,11,18,100.0,26.37,71098.56
+10321,39.0,Mujer,Valparaíso,Plata,Google Ads,No,No,Mobile,13,7,5.24,7,18,83.0,40.55,40252.85
+10322,22.0,Mujer,Concepción,Bronce,Google Ads,Sí,No,Desktop,19,14,8.48,9,16,85.0,12.6,62206.88
+10323,46.0,Hombre,Antofagasta,Bronce,Google Ads,No,Sí,Mobile,31,12,8.61,4,55,68.0,44.43,47714.52
+10324,50.0,Mujer,Antofagasta,Premium,Referido,No,No,Mobile,25,18,13.31,6,45,84.0,29.16,42948.08
+10325,18.0,Mujer,La Serena,Oro,Orgánico,No,Sí,Mobile,26,1,7.1,8,44,92.0,44.8,54658.95
+10326,23.0,Hombre,Rancagua,Oro,Instagram,No,No,Mobile,32,26,7.35,7,15,78.0,39.59,70897.73
+10327,26.0,Mujer,Temuco,Premium,Instagram,No,No,Mobile,38,27,13.27,13,0,100.0,30.6,91795.72
+10328,70.0,Mujer,Antofagasta,Bronce,Referido,Sí,No,Desktop,30,18,10.99,9,28,90.0,37.94,55803.67
+10329,35.0,Mujer,Puerto Montt,Oro,Email,No,Sí,Desktop,25,17,5.76,7,62,73.0,21.91,45263.19
+10330,27.0,Hombre,Temuco,Plata,Instagram,No,No,Mobile,32,21,16.35,5,50,70.0,57.67,78300.81
+10331,54.0,Mujer,Santiago,Plata,Instagram,No,Sí,Desktop,16,10,6.9,6,55,73.0,38.39,42671.96
+10332,34.0,Mujer,Rancagua,Bronce,Referido,No,No,Mobile,17,11,8.58,7,44,84.0,17.05,44846.72
+10333,50.0,Mujer,Concepción,Premium,Email,No,Sí,Mobile,45,37,12.61,7,73,92.0,39.1,86103.96
+10334,48.0,Mujer,Concepción,Bronce,Orgánico,No,No,Mobile,20,38,15.34,4,58,44.0,52.26,22593.58
+10335,35.0,Hombre,La Serena,Bronce,Orgánico,No,No,Tablet,18,8,4.7,4,63,50.0,35.58,19734.98
+10336,39.0,Hombre,Concepción,Oro,Email,No,Sí,Mobile,40,27,12.16,8,37,65.0,40.52,88848.08
+10337,61.0,Mujer,Concepción,Plata,Email,No,Sí,Desktop,26,13,6.27,6,45,74.0,30.72,61073.48
+10338,28.0,Mujer,Valparaíso,Oro,Email,Sí,No,Mobile,32,16,11.15,8,43,100.0,42.11,65072.98
+10339,68.0,Otro,Santiago,Bronce,Google Ads,Sí,No,mobile,33,18,4.95,9,0,100.0,31.55,88365.63
+10340,35.0,Hombre,Puerto Montt,Bronce,Orgánico,No,No,Desktop,21,16,10.4,0,85,42.0,33.32,28552.54
+10341,35.0,Mujer,Concepción,Bronce,Email,No,No,Desktop,17,24,12.32,1,62,60.0,20.96,41832.28
+10342,47.0,Mujer,Valparaíso ,Oro,Referido,No,Sí,Mobile,29,17,9.49,8,58,79.0,29.26,82005.86
+10343,47.0,Mujer,Rancagua,Plata,Instagram,No,No,Mobile,19,11,8.22,3,59,64.0,35.64,43069.21
+10344,36.0,Mujer,Santiago,Plata,Instagram,No,Sí,Mobile,17,4,4.64,2,58,61.0,35.64,13208.64
+10345,26.0,Mujer,Santiago,Premium,Instagram,No,No,Mobile,34,16,11.03,2,68,65.0,33.07,72267.62
+10346,64.0,Hombre,Puerto Montt,Bronce,Google Ads,No,No,Mobile,15,19,13.62,2,56,59.0,46.03,44884.72
+10347,58.0,Hombre,La Serena,Oro,Email,Sí,No,Mobile,40,17,13.85,8,26,100.0,27.3,74049.49
+10348,20.0,Hombre,Concepción,Plata,Orgánico,No,No,Desktop,18,9,7.84,0,99,62.0,30.89,45770.35
+10349,70.0,Mujer,Concepción,Premium,Referido,No,No,Mobile,33,14,7.31,6,60,74.0,25.75,61082.67
+10350,25.0,Mujer,Concepción,Oro,Orgánico,No,No,Mobile,33,27,17.95,8,32,76.0,13.71,73919.74
+10351,57.0,Hombre,Antofagasta,Oro,Email,No,No,Desktop,42,17,11.95,6,55,67.0,17.19,73105.23
+10352,70.0,Hombre,Concepción,Premium,Google Ads,No,No,Mobile,23,17,11.15,5,39,85.0,44.83,44224.99
+10353,19.0,Hombre,Antofagasta,Oro,Instagram,No,No,Mobile,34,24,11.22,10,20,100.0,23.58,98085.19
+10354,42.0,Mujer,Valparaíso,Plata,Referido,No,Sí,Mobile,25,16,7.05,7,49,77.0,32.9,68945.29
+10355,23.0,Mujer,La Serena,Plata,Orgánico,No,No,Desktop,31,22,3.61,8,49,76.0,38.11,43487.47
+10356,56.0,Mujer,Valparaíso,Bronce,Orgánico,Sí,No,Mobile,18,20,9.44,4,41,65.0,48.9,49382.44
+10357,32.0,Mujer,Temuco,Oro,Instagram,No,Sí,Mobile,35,8,6.07,7,22,86.0,32.32,81189.58
+10358,70.0,Hombre,Rancagua,Bronce,Orgánico,No,No,Desktop,21,9,7.94,2,68,54.0,32.37,55349.6
+10359,51.0,Mujer,Concepción,Oro,Instagram,No,No,Mobile,22,26,10.09,5,50,77.0,44.68,46927.94
+10360,58.0,Mujer,Puerto Montt,Bronce,Orgánico,No,Sí,Desktop,17,17,8.81,7,40,80.0,34.41,54662.69
+10361,67.0,Mujer,Puerto Montt,Bronce,Instagram,Sí,No,Desktop,22,13,10.39,6,43,99.0,14.89,42595.52
+10362,59.0,Hombre,Santiago,Plata,Orgánico,No,No,Mobile,14,13,3.39,2,92,55.0,29.69,41894.98
+10363,24.0,Mujer,Concepción,Plata,Google Ads,No,No,Mobile,26,20,10.18,8,47,76.0,39.43,65490.1
+10364,31.0,Hombre,Valparaíso,Plata,Orgánico,No,No,Mobile,29,18,6.83,7,63,63.0,50.18,35670.29
+10365,55.0,Mujer,Puerto Montt,Plata,Google Ads,No,No,Tablet,31,20,9.57,6,43,71.0,29.1,98159.67
+10366,42.0,Hombre,Valparaíso,Premium,Instagram,No,No,Desktop,40,24,8.28,12,52,100.0,34.5,75230.04
+10367,68.0,Hombre,Rancagua,Bronce,Google Ads,Sí,No,Desktop,23,23,7.8,4,25,67.0,39.82,86101.91
+10368,58.0,Hombre,Antofagasta,Plata,Email,No,Sí,Tablet,16,20,10.71,8,35,92.0,28.52,67941.74
+10369,52.0,Hombre,La Serena,Bronce,Instagram,No,Sí,Desktop,23,23,12.06,8,51,90.0,26.2,47154.54
+10370,41.0,Mujer,Valparaíso,Bronce,Instagram,No,No,Tablet,22,15,12.97,4,80,47.0,48.12,33629.1
+10371,55.0,Mujer,Santiago,Plata,Orgánico,No,Sí,Mobile,26,18,12.64,4,56,60.0,35.75,49129.69
+10372,53.0,Hombre,Valparaíso,Oro,Orgánico,No,Sí,Mobile,31,22,10.99,7,59,75.0,22.11,80400.4
+10373,35.0,Mujer,Temuco,Oro,Orgánico,No,No,Tablet,32,16,11.98,10,0,99.0,23.43,89027.51
+10374,45.0,Hombre,Temuco,Plata,Orgánico,No,No,Desktop,30,22,7.07,7,45,85.0,50.25,54506.16
+10375,62.0,Mujer,Temuco,plata ,Orgánico,No,No,Mobile,26,21,9.73,6,80,77.0,31.92,40207.74
+10376,70.0,Mujer,Antofagasta,Plata,Referido,No,Sí,Mobile,25,12,7.11,5,36,53.0,43.91,39010.26
+10377,66.0,Hombre,Puerto Montt,Plata,Google Ads,No,No,Mobile,27,24,19.04,13,10,100.0,24.26,58430.07
+10378,54.0,Hombre,Valparaíso,Plata,Referido,Sí,Sí,Mobile,36,27,11.0,10,44,100.0,34.11,82429.97
+10379,64.0,Mujer,Temuco,Oro,Google Ads,No,No,Mobile,30,16,8.4,7,15,94.0,55.81,74805.74
+10380,33.0,Hombre,La Serena,Bronce,Referido,No,Sí,Mobile,18,27,12.92,4,79,62.0,44.81,31441.79
+10381,22.0,Hombre,Puerto Montt,Plata,Google Ads,Sí,No,Mobile,36,31,15.44,8,27,79.0,29.61,76279.92
+10382,59.0,Hombre,Temuco,Plata,Instagram,No,No,Mobile,20,1,8.31,9,36,89.0,28.58,53082.01
+10383,27.0,Mujer,CONCEPCIÓN,Plata,Referido,No,No,Mobile,84,30,6.53,1,62,51.0,27.24,241244.29
+10384,41.0,Mujer,La Serena,Plata,Email,No,No,Desktop,29,13,14.94,9,51,93.0,25.49,58145.93
+10385,37.0,Hombre,Valparaíso,Bronce,Google Ads,No,No,Desktop,11,5,7.04,3,72,54.0,30.36,13928.94
+10386,67.0,Mujer,Concepción,Bronce,Email,Sí,Sí,Desktop,29,19,11.73,5,41,76.0,25.1,46463.6
+10387,42.0,Mujer,Concepción,Plata,Instagram,Sí,No,Desktop,36,16,8.66,10,13,100.0,16.96,69070.82
+10388,,Mujer,La Serena,Oro,Orgánico,No,No,Mobile,20,13,7.21,2,62,56.0,50.24,36050.61
+10389,68.0,Hombre,Puerto Montt,Bronce,Orgánico,Sí,Sí,Mobile,16,9,13.79,5,38,73.0,30.5,61131.88
+10390,53.0,Hombre,Rancagua,Bronce,Instagram,No,Sí,Mobile,23,22,9.36,7,46,69.0,36.03,54831.81
+10391,66.0,Hombre,Puerto Montt,Bronce,Instagram,No,No,Desktop,12,1,8.16,2,45,66.0,20.8,44231.38
+10392,55.0,Mujer,Antofagasta,Oro,Referido,No,No,Desktop,21,14,9.97,6,54,73.0,19.13,35048.29
+10393,27.0,Hombre,Valparaíso,Plata,Orgánico,No,Sí,Desktop,23,12,10.15,2,27,65.0,38.16,44100.63
+10394,56.0,Mujer,Rancagua,Bronce,Google Ads,No,No,Mobile,15,12,8.38,2,50,50.0,28.31,11252.91
+10395,50.0,Mujer,Rancagua,Bronce,Referido,No,Sí,Desktop,9,1,0.5,2,49,66.0,36.79,27098.49
+10396,63.0,Otro,Valparaíso,Oro,Orgánico,Sí,No,Mobile,30,20,17.6,10,25,100.0,35.36,48290.04
+10397,64.0,Hombre,Antofagasta,Premium,Google Ads,No,Sí,Mobile,34,11,8.04,9,8,95.0,33.82,49287.04
+10398,36.0,Mujer,La Serena,Plata,Instagram,Sí,No,Mobile,30,18,9.76,6,76,76.0,37.82,51537.75
+10399,21.0,Hombre,Puerto Montt,Bronce,Instagram,Sí,No,Mobile,17,18,10.8,9,18,93.0,31.32,63814.97
+10400,29.0,Hombre,Rancagua,Bronce,Google Ads,No,Sí,Desktop,29,20,9.09,4,37,79.0,16.22,68475.57
+10401,56.0,Mujer,Santiago,Plata,Instagram,No,No,Desktop,19,11,5.08,5,53,78.0,39.74,29647.46
+10402,59.0,Mujer,Antofagasta,Bronce,Instagram,No,Sí,Desktop,17,20,12.27,10,31,84.0,34.1,42504.68
+10403,67.0,Hombre,La Serena,Bronce,Orgánico,No,Sí,Mobile,22,13,2.92,4,57,71.0,23.66,40082.56
+10404,57.0,Hombre,Concepción,Premium,Google Ads,No,No,Tablet,25,12,10.74,7,25,97.0,29.49,58282.13
+10405,69.0,Hombre,Puerto Montt,Premium,Google Ads,No,No,Mobile,29,12,5.59,8,68,94.0,28.39,63227.74
+10406,47.0,Hombre,Concepción,Bronce,Email,No,No,Desktop,25,17,12.15,4,66,60.0,52.2,65477.9
+10407,27.0,Mujer,Valparaíso,Plata,Instagram,No,No,Mobile,28,18,10.62,7,36,88.0,26.11,57124.12
+10408,31.0,Mujer,Concepción,Oro,Referido,No,No,Tablet,14,5,6.61,4,73,69.0,32.87,35395.11
+10409,35.0,Hombre,Santiago,Bronce,Orgánico,No,No,Tablet,17,10,5.47,4,49,58.0,36.33,27378.7
+10410,42.0,Hombre,Puerto Montt,Bronce,Orgánico,No,Sí,Mobile,11,8,8.76,4,36,77.0,37.33,18897.42
+10411,27.0,Mujer,Valparaíso,Bronce,Instagram,Sí,No,Mobile,26,9,7.87,6,37,78.0,22.18,58988.44
+10412,34.0,Hombre,Valparaíso,Premium,Referido,No,No,Desktop,49,19,11.54,10,6,100.0,13.89,104989.76
+10413,44.0,Mujer,Puerto Montt,Premium,Google Ads,No,Sí,Mobile,23,11,9.19,1,33,49.0,34.27,62138.03
+10414,55.0,Hombre,Concepción,Premium,Instagram,No,Sí,Desktop,45,24,13.0,11,0,100.0,33.15,101845.4
+10415,33.0,Otro,Puerto Montt,Bronce,Instagram,No,No,Mobile,37,23,10.06,10,43,100.0,35.85,100524.13
+10416,60.0,Mujer,Rancagua,Plata,Referido,No,No,Mobile,17,10,10.3,8,9,84.0,14.87,51109.48
+10417,65.0,Hombre,Puerto Montt,Oro,Orgánico,Sí,Sí,Mobile,38,21,13.25,6,18,84.0,49.67,76462.53
+10418,65.0,Hombre,Santiago,Bronce,Instagram,No,No,Mobile,28,19,8.32,3,78,38.0,40.34,37745.88
+10419,64.0,Hombre,Valparaíso,Plata,Orgánico,Sí,No,Mobile,37,21,12.51,6,32,83.0,13.67,78937.51
+10420,63.0,Mujer,Concepción,Premium,Email,Sí,No,Mobile,37,25,14.57,11,0,100.0,13.98,104679.11
+10421,19.0,Hombre,Santiago,Plata,Google Ads,No,No,Desktop,28,17,9.84,10,71,98.0,21.98,60827.48
+10422,50.0,Mujer,Antofagasta,Bronce,Orgánico,No,No,Desktop,16,20,11.17,10,26,100.0,17.23,52190.44
+10423,23.0,Hombre,Concepción,Plata,Instagram,No,Sí,Tablet,29,32,8.61,10,3,96.0,25.67,78442.09
+10424,53.0,Mujer,Valparaíso,Bronce,Email,No,Sí,Desktop,15,16,11.19,7,21,96.0,26.54,51432.62
+10425,37.0,Hombre,Temuco,Plata,Referido,No,No,Mobile,32,8,,4,49,60.0,28.46,46504.13
+10426,30.0,Hombre,Antofagasta,Premium,Instagram,No,Sí,Mobile,38,27,10.99,8,20,100.0,27.49,88734.08
+10427,61.0,Hombre,La Serena,Oro,Referido,No,Sí,Mobile,38,26,13.59,9,7,56.0,42.33,64381.92
+10428,55.0,Mujer,Santiago,Bronce,Instagram,No,No,Mobile,14,7,11.72,7,63,96.0,22.71,52921.14
+10429,54.0,Hombre,Temuco,Bronce,Orgánico,No,No,Desktop,20,17,7.52,4,30,72.0,21.42,54936.85
+10430,27.0,Hombre,Temuco,Premium,Instagram,Sí,No,Mobile,46,31,16.62,11,0,100.0,29.72,107821.2
+10431,52.0,Hombre,Concepción,Bronce,Email,No,No,Mobile,6,1,8.3,4,63,65.0,42.92,53789.68
+10432,20.0,Hombre,Rancagua,Plata,Email,No,No,Desktop,29,16,10.44,5,23,86.0,28.55,67185.83
+10433,64.0,Hombre,Santiago,Bronce,Orgánico,Sí,No,Mobile,32,14,11.8,5,50,77.0,43.99,55807.55
+10434,28.0,Mujer,Puerto Montt,Bronce,Email,No,Sí,Desktop,16,13,12.26,9,46,100.0,36.95,58195.08
+10435,51.0,Mujer,La Serena,Plata,Google Ads,No,No,Tablet,26,22,11.06,8,0,87.0,19.05,62777.63
+10436,25.0,Hombre,Antofagasta,Oro,Orgánico,No,No,Mobile,28,19,9.49,6,21,83.0,38.63,64314.76
+10437,26.0,Hombre,Puerto Montt,Bronce,Google Ads,No,Sí,Mobile,16,6,11.17,4,73,55.0,31.57,40744.31
+10438,66.0,Hombre,La Serena,Bronce,Instagram,No,No,Mobile,8,9,1.64,5,19,70.0,20.64,25142.84
+10439,18.0,Mujer,La Serena,Bronce,Instagram,No,No,Mobile,15,14,13.3,3,53,67.0,29.32,32147.03
+10440,40.0,Hombre,Concepción,Bronce,Email,No,Sí,Desktop,21,15,7.34,5,30,72.0,28.91,31710.8
+10441,48.0,Hombre,Rancagua,Bronce,Orgánico,No,No,Mobile,9,3,6.58,0,96,65.0,43.16,15705.34
+10442,31.0,Mujer,Santiago,Premium,Email,No,No,Tablet,44,23,12.37,7,35,92.0,31.53,102713.5
+10443,64.0,Hombre,Valparaíso,Oro,Instagram,No,No,Desktop,18,14,6.68,4,34,70.0,36.23,36562.03
+10444,53.0,Mujer,Rancagua,Plata,Referido,No,No,Mobile,30,13,9.79,5,67,74.0,37.67,51896.83
+10445,43.0,Mujer,Temuco,Oro,Email,No,No,Desktop,28,16,10.0,2,65,63.0,20.1,54581.81
+10446,63.0,Mujer,La Serena,Premium,Email,Sí,No,Desktop,43,25,17.47,9,0,100.0,31.64,99191.42
+10447,43.0,Hombre,Puerto Montt,Plata,Instagram,No,No,Mobile,19,15,10.82,4,64,74.0,38.16,45945.95
+10448,47.0,Mujer,Valparaíso,Plata,Orgánico,No,No,Desktop,5,1,2.07,3,40,67.0,23.55,6065.61
+10449,66.0,Hombre,Puerto Montt,Bronce,Instagram,No,No,Mobile,20,13,5.85,1,114,45.0,38.24,23920.98
+10450,33.0,Mujer,Santiago,Bronce,Instagram,No,No,Desktop,16,9,9.75,3,64,39.0,34.2,27685.82
+10451,23.0,Mujer,Concepción,Oro,Instagram,No,No,Mobile,28,7,7.29,6,20,87.0,37.16,60010.88
+10452,51.0,Hombre,La Serena,Plata,Instagram,Sí,Sí,Desktop,30,23,13.47,11,27,85.0,14.39,68949.41
+10453,69.0,Hombre,Rancagua,Plata,Google Ads,Sí,Sí,Mobile,22,18,13.17,10,25,100.0,32.15,77957.8
+10454,53.0,Hombre,La Serena,Oro,Orgánico,No,Sí,Desktop,22,20,8.04,8,0,100.0,36.09,68635.27
+10455,44.0,Hombre,Puerto Montt,Bronce,Orgánico,No,Sí,Mobile,18,13,10.0,4,72,68.0,48.23,35647.21
+10456,,Hombre,La Serena,Bronce,Referido,No,No,Mobile,14,14,7.64,4,62,75.0,45.66,28297.56
+10457,21.0,Hombre,Valparaíso,Premium,organico,No,Sí,Mobile,34,14,15.24,6,70,74.0,51.7,43164.83
+10458,44.0,Hombre,,Plata,Email,No,No,Mobile,28,24,11.37,4,91,64.0,23.26,53658.26
+10459,70.0,Mujer,Rancagua,Bronce,Email,No,No,Mobile,28,26,,4,57,45.0,33.19,35547.92
+10460,65.0,Hombre,Antofagasta,Plata,Referido,No,No,Mobile,42,27,12.47,7,83,65.0,36.05,73134.53
+10461,30.0,Mujer,Santiago,Oro,Orgánico,No,Sí,Mobile,25,19,11.46,10,33,91.0,19.28,48936.66
+10462,69.0,Hombre,Temuco,Bronce,Google Ads,No,Sí,Mobile,18,17,5.87,3,35,59.0,53.43,29007.08
+10463,45.0,Mujer,Antofagasta,Premium,Email,No,Sí,Desktop,35,20,9.58,6,17,70.0,47.86,70595.28
+10464,18.0,Mujer,Valparaíso,Plata,Instagram,Sí,No,Mobile,25,23,16.05,9,11,97.0,18.33,86044.93
+10465,38.0,Hombre,Temuco,Oro,Google Ads,No,Sí,Tablet,23,14,8.69,8,24,84.0,42.36,41352.02
+10466,25.0,Hombre,Valparaíso,Bronce,Instagram,No,No,Tablet,21,9,12.97,8,71,79.0,18.35,47758.11
+10467,30.0,Hombre,Santiago,Bronce,Orgánico,No,No,Mobile,11,23,10.55,4,87,58.0,34.32,35806.61
+10468,22.0,Hombre,Rancagua,Plata,Orgánico,No,No,Mobile,26,15,9.37,4,31,57.0,40.11,31183.83
+10469,50.0,Mujer,Puerto Montt,Bronce,Email,No,No,Mobile,18,16,10.12,7,28,78.0,15.03,40112.32
+10470,65.0,Hombre,Concepción,Bronce,Instagram,No,No,Tablet,14,10,5.18,2,89,35.0,30.44,25207.81
+10471,64.0,Mujer,Temuco,Plata,Google Ads,No,No,Mobile,21,13,7.35,6,64,85.0,21.95,49848.34
+10472,45.0,Hombre,La Serena,Bronce,Referido,No,No,Desktop,21,16,14.36,8,32,86.0,25.53,58254.12
+10473,60.0,Mujer,Santiago,Premium,Email,Sí,Sí,Mobile,39,23,11.78,8,13,100.0,27.53,94200.42
+10474,33.0,Hombre,La Serena,Plata,Instagram,No,No,Tablet,38,14,10.28,7,0,88.0,16.25,68236.79
+10475,48.0,Mujer,Temuco,Plata,Referido,No,Sí,Desktop,23,18,10.35,3,75,61.0,47.15,48550.16
+10476,45.0,Hombre,Antofagasta,Plata,Google Ads,No,Sí,Mobile,18,18,9.01,4,28,75.0,42.75,45072.58
+10477,25.0,Mujer,Valparaíso,Plata,Orgánico,No,Sí,Tablet,17,6,7.17,3,53,66.0,34.03,26071.5
+10478,29.0,Hombre,Concepción,Premium,Orgánico,No,No,Tablet,39,22,5.39,6,84,72.0,40.27,73473.34
+10479,48.0,Mujer,Santiago,Bronce,Referido,Sí,Sí,Mobile,32,34,16.16,10,36,100.0,43.93,96241.82
+10480,18.0,Mujer,La Serena,Premium,Orgánico,No,Sí,Mobile,30,11,8.04,6,40,75.0,28.44,60082.9
+10481,64.0,Mujer,La Serena,Plata,Instagram,No,Sí,Tablet,24,13,5.96,9,45,85.0,42.62,46394.57
+10482,60.0,Hombre,Rancagua,Premium,Instagram,No,Sí,Mobile,27,26,14.93,8,9,96.0,44.03,54357.42
+10483,46.0,Mujer,Temuco,Plata,Orgánico,No,Sí,Tablet,41,27,8.58,7,36,82.0,10.59,83381.38
+10484,21.0,Mujer,Puerto Montt,Bronce,Google Ads,Sí,Sí,Desktop,13,19,5.91,4,76,67.0,30.03,24818.11
+10485,55.0,Mujer,Puerto Montt,Oro,Orgánico,No,No,Tablet,34,26,10.15,2,46,50.0,42.41,78163.07
+10486,50.0,Mujer,Concepción,Oro,Email,No,Sí,Desktop,38,32,9.64,5,49,79.0,36.63,62241.19
+10487,52.0,Hombre,Concepción,Bronce,Orgánico,No,No,Desktop,22,6,7.42,4,58,63.0,47.14,22632.89
+10488,51.0,Hombre,Rancagua,Oro,Orgánico,No,No,Tablet,38,28,9.69,13,27,100.0,32.29,67693.98
+10489,31.0,Hombre,La Serena,Premium,Instagram,No,No,Desktop,29,20,7.82,5,36,83.0,47.28,63142.99
+10490,27.0,Hombre,La Serena,Plata,Google Ads,No,Sí,Tablet,25,22,6.92,4,26,69.0,46.01,34772.8
+10491,42.0,Hombre,La Serena,Bronce,Google Ads,No,Sí,Desktop,12,6,8.87,2,82,63.0,26.68,43297.83
+10492,40.0,Mujer,Antofagasta,Bronce,Instagram,No,No,Mobile,20,14,6.25,7,32,98.0,49.27,50858.37
+10493,36.0,Mujer,Puerto Montt,Bronce,Instagram,No,Sí,Mobile,15,3,3.37,4,90,63.0,52.37,28971.87
+10494,53.0,Hombre,Rancagua,Plata,Email,Sí,Sí,Desktop,39,17,13.07,9,5,96.0,13.91,100831.74
+10495,60.0,Hombre,Santiago,Bronce,Google Ads,No,No,Mobile,26,15,8.15,7,67,77.0,21.56,51541.76
+10496,41.0,Mujer,Concepción,Bronce,Instagram,No,Sí,Desktop,21,16,9.09,4,44,47.0,24.07,69801.34
+10497,41.0,Mujer,La Serena,Bronce,Instagram,No,No,Mobile,18,15,7.46,6,4,80.0,51.85,36245.7
+10498,33.0,Mujer,Antofagasta,Bronce,Orgánico,No,No,Mobile,21,15,9.66,4,89,60.0,25.62,36922.82
+10499,59.0,Mujer,Concepción,Bronce,Email,No,Sí,Desktop,14,16,9.23,2,89,60.0,30.91,28649.07
+10500,44.0,Mujer,Concepción,Premium,Orgánico,Sí,No,Mobile,51,26,12.24,10,37,92.0,44.33,84052.46
+10501,24.0,Hombre,La Serena,Plata,Referido,No,No,Tablet,25,19,11.78,2,59,64.0,24.24,48018.83
+10502,70.0,Mujer,Rancagua,Premium,Orgánico,No,No,Mobile,40,25,12.69,4,35,84.0,28.01,52138.03
+10503,43.0,Mujer,Temuco,Oro,Orgánico,No,Sí,Desktop,38,14,10.96,8,43,97.0,22.74,64106.52
+10504,19.0,Mujer,Rancagua,Plata,Orgánico,No,No,Mobile,34,22,9.35,4,73,69.0,47.5,70828.45
+10505,23.0,Mujer,CONCEPCIÓN,Premium,Instagram,No,No,Tablet,21,17,14.78,4,50,67.0,23.29,59631.18
+10506,19.0,Mujer,Puerto Montt,Oro,Email,No,Sí,Mobile,39,26,7.25,8,37,89.0,42.12,73573.42
+10507,58.0,Mujer,La Serena,Plata,Google Ads,No,No,Mobile,29,14,8.46,9,4,92.0,15.31,69763.96
+10508,29.0,Mujer,La Serena,Premium,Email,No,Sí,Mobile,38,33,16.39,7,13,100.0,40.08,92040.22
+10509,31.0,Mujer,Temuco,Plata,Orgánico,Sí,Sí,Desktop,29,20,16.7,11,19,96.0,10.21,87847.58
+10510,35.0,Hombre,Valparaíso,Plata,Instagram,No,No,Desktop,19,13,9.43,5,85,67.0,20.44,34694.38
+10511,56.0,Mujer,Santiago,Plata,Referido,No,Sí,Mobile,31,28,14.48,3,73,67.0,23.81,32481.29
+10512,28.0,Hombre,Valparaíso,Bronce,Instagram,No,No,Mobile,19,20,8.16,6,71,73.0,34.2,36592.66
+10513,52.0,Mujer,Concepción,Bronce,Google Ads,No,Sí,Mobile,9,25,15.23,0,88,39.0,39.64,36759.2
+10514,67.0,Hombre,Puerto Montt,Plata,Email,Sí,No,Desktop,30,21,10.11,6,54,94.0,40.56,82943.8
+10515,32.0,Mujer,Santiago,Plata,Email,No,Sí,Desktop,26,21,14.24,4,36,62.0,29.81,61420.7
+10516,57.0,Mujer,Santiago,Oro,Instagram,No,No,Desktop,20,13,8.34,4,55,54.0,28.79,29659.42
+10517,29.0,Mujer,Concepción,Oro,Google Ads,No,No,Desktop,22,8,8.21,0,47,43.0,37.47,19897.38
+10518,50.0,Mujer,Santiago,Bronce,Instagram,No,Sí,Desktop,14,11,0.5,3,98,52.0,20.6,14547.49
+10519,19.0,Hombre,Concepción,Oro,Email,No,No,Desktop,26,24,11.73,7,57,100.0,25.52,62323.17
+10520,70.0,Mujer,La Serena,Plata,Google Ads,No,No,Desktop,19,15,6.5,6,64,44.0,33.67,14232.62
+10521,53.0,Mujer,Puerto Montt,Plata,Orgánico,No,Sí,Desktop,14,17,7.52,9,14,98.0,32.99,29039.23
+10522,50.0,Mujer,Rancagua,Bronce,Instagram,No,No,Mobile,26,15,11.76,4,57,62.0,30.87,36738.23
+10523,70.0,Hombre,Santiago,Plata,Referido,No,No,Desktop,21,12,8.89,3,93,39.0,18.28,44540.32
+10524,18.0,Mujer,Santiago,Bronce,Google Ads,No,Sí,Mobile,13,29,12.4,7,10,94.0,45.65,37528.38
+10525,33.0,Mujer,Antofagasta,Bronce,Referido,No,No,Desktop,78,36,9.22,8,49,73.0,37.61,214011.74
+10526,25.0,Hombre,Temuco,Plata,Instagram,Sí,No,Desktop,50,31,16.58,9,26,100.0,15.21,113265.12
+10527,40.0,Hombre,Temuco,Premium,Referido,No,Sí,Desktop,27,17,4.08,4,17,88.0,33.02,47052.37
+10528,48.0,Mujer,Temuco,Premium,Email,No,No,Mobile,28,18,12.51,6,14,81.0,17.8,68751.75
+10529,62.0,Mujer,Temuco,Bronce,Orgánico,No,No,Desktop,16,12,7.94,6,0,73.0,9.62,47441.03
+10530,19.0,Hombre,Rancagua,Premium,Instagram,No,Sí,Mobile,27,23,15.1,10,0,100.0,27.06,73540.83
+10531,61.0,Hombre,Antofagasta,Oro,Google Ads,No,No,Desktop,35,21,10.2,5,0,74.0,35.3,71251.1
+10532,58.0,Hombre,Valparaíso,Bronce,Referido,No,Sí,Mobile,16,6,4.93,5,48,68.0,55.32,22453.75
+10533,62.0,Hombre,Temuco,Plata,Referido,No,Sí,Mobile,25,14,10.36,5,60,,19.92,71787.8
+10534,63.0,Mujer,Rancagua,Bronce,Instagram,No,No,Mobile,15,16,7.75,9,49,79.0,38.42,28599.75
+10535,25.0,Hombre,Antofagasta,Bronce,Referido,Sí,Sí,Mobile,17,3,6.44,9,0,95.0,44.13,65707.45
+10536,64.0,Mujer,Puerto Montt,Bronce,Instagram,No,No,Desktop,10,16,8.85,4,54,48.0,23.07,33452.68
+10537,66.0,Hombre,Rancagua,Bronce,Instagram,No,No,Mobile,16,12,7.02,3,77,71.0,28.49,37807.15
+10538,55.0,Hombre,Valparaíso,Plata,Orgánico,No,No,Mobile,28,7,6.01,8,32,73.0,18.38,37787.2
+10539,21.0,Mujer,Santiago,Plata,Google Ads,Sí,No,Mobile,32,16,14.51,14,0,100.0,31.58,69879.88
+10540,66.0,Hombre,La Serena,Plata,Orgánico,No,Sí,Desktop,33,32,13.81,8,15,75.0,26.02,74083.79
+10541,55.0,Mujer,Concepción,Oro,Orgánico,No,Sí,Desktop,20,10,8.97,7,68,69.0,35.52,60653.62
+10542,53.0,Hombre,Puerto Montt,Bronce,Google Ads,Sí,Sí,Desktop,13,13,12.02,7,63,78.0,46.35,58984.44
+10543,60.0,Hombre,,Oro,Orgánico,No,No,Mobile,29,12,8.4,7,51,,24.84,55269.42
+10544,65.0,Mujer,Puerto Montt,Oro,Referido,No,No,Mobile,28,23,5.19,7,62,73.0,32.1,49703.55
+10545,59.0,Mujer,Santiago,Premium,Google Ads,No,No,Tablet,37,26,14.62,4,23,84.0,47.42,82222.2
+10546,57.0,Hombre,La Serena,Plata,Instagram,Sí,No,Desktop,26,24,13.55,14,37,100.0,18.52,80412.78
+10547,40.0,Hombre,Temuco,Bronce,Orgánico,No,Sí,Mobile,18,19,9.1,9,39,89.0,26.52,49986.46
+10548,42.0,Mujer,Concepción,Bronce,Email,No,No,Desktop,19,11,7.72,4,62,58.0,31.26,38677.46
+10549,45.0,Hombre,Puerto Montt,Plata,Orgánico,No,No,Desktop,22,15,7.2,5,15,90.0,29.65,40009.28
+10550,66.0,Mujer,Antofagasta,Plata,Referido,No,Sí,Desktop,21,20,15.18,8,39,82.0,19.61,65758.37
+10551,20.0,Otro,Valparaíso,Premium,Referido,No,No,Desktop,42,27,15.64,8,13,87.0,10.07,74888.69
+10552,29.0,Mujer,Concepción,Plata,Referido,No,Sí,Desktop,22,11,7.6,9,0,98.0,41.97,55233.09
+10553,55.0,Hombre,Concepción,Bronce,Email,No,Sí,Desktop,20,21,9.78,2,81,49.0,44.52,32612.96
+10554,66.0,Mujer,Rancagua,Oro,Orgánico,Sí,No,Desktop,51,24,18.82,11,5,100.0,21.58,135066.58
+10555,32.0,Hombre,Santiago,Plata,Instagram,No,No,Mobile,18,21,10.32,7,67,72.0,40.86,46411.69
+10556,40.0,Hombre,Concepción,Premium,Google Ads,No,No,Desktop,37,13,4.57,7,45,95.0,26.02,61797.0
+10557,51.0,Mujer,Antofagasta,Bronce,Orgánico,No,No,Tablet,20,7,4.81,6,60,70.0,28.55,26727.03
+10558,30.0,Mujer,Puerto Montt,Bronce,Email,Sí,No,Mobile,23,19,11.8,8,12,94.0,36.82,66764.7
+10559,19.0,Hombre,La Serena,Oro,Instagram,No,No,Mobile,35,25,9.71,6,24,79.0,25.47,76202.36
+10560,42.0,Mujer,Rancagua,Bronce,Orgánico,No,No,Mobile,10,11,7.65,3,82,54.0,23.15,33127.12
+10561,22.0,Mujer,Puerto Montt,Plata,Referido,No,Sí,Tablet,31,29,10.42,10,19,89.0,39.46,74719.13
+10562,19.0,Mujer,Puerto Montt,Oro,Orgánico,No,Sí,Tablet,22,8,8.02,4,35,71.0,31.02,30645.06
+10563,60.0,Mujer,Temuco,Oro,Email,No,Sí,Desktop,35,24,12.95,10,18,100.0,26.1,84830.61
+10564,58.0,Mujer,La Serena,Premium,Email,Sí,Sí,Desktop,40,22,11.08,8,1,91.0,27.14,72615.5
+10565,20.0,Mujer,Valparaíso,Bronce,Google Ads,Sí,No,Mobile,15,6,9.34,5,63,72.0,23.11,56324.49
+10566,35.0,Mujer,Santiago,Plata,Instagram,No,Sí,Mobile,22,29,9.08,7,57,59.0,30.72,30940.73
+10567,56.0,Otro,Puerto Montt,premium,Google Ads,No,No,Mobile,23,11,6.88,7,33,68.0,38.14,52346.38
+10568,65.0,Mujer,Valparaíso,Oro,Email,No,Sí,Desktop,28,23,6.08,5,31,92.0,30.84,42133.13
+10569,43.0,Hombre,Antofagasta,Plata,Email,No,Sí,Tablet,18,29,14.49,7,43,78.0,27.8,62212.46
+10570,34.0,Mujer,Rancagua,Plata,Google Ads,Sí,Sí,Desktop,31,17,8.65,4,8,88.0,16.28,81225.89
+10571,62.0,Mujer,Puerto Montt,Bronce,Email,No,Sí,Tablet,20,7,3.79,5,46,74.0,22.92,37066.67
+10572,69.0,Hombre,Rancagua,Bronce,Orgánico,No,Sí,Desktop,28,25,10.14,9,15,86.0,39.16,89430.38
+10573,64.0,Mujer,Antofagasta,Premium,Instagram,No,No,Mobile,48,18,,8,9,84.0,37.1,76606.25
+10574,29.0,Hombre,Temuco,Plata,Email,No,Sí,Desktop,17,11,6.03,11,36,89.0,44.82,53684.25
+10575,44.0,Hombre,Puerto Montt,Premium,Instagram,No,No,Desktop,31,17,15.93,9,23,99.0,29.35,57031.53
+10576,25.0,Otro,Antofagasta,Bronce,Referido,Sí,Sí,Mobile,24,18,13.21,10,27,84.0,32.62,62788.28
+10577,55.0,Mujer,Valparaíso,Bronce,Email,No,No,Desktop,12,4,7.74,6,57,69.0,25.59,36170.84
+10578,41.0,Hombre,Puerto Montt,Bronce,Referido,No,No,Desktop,19,7,4.73,7,25,81.0,34.75,47308.31
+10579,29.0,Hombre,Rancagua,Plata,Instagram,No,No,Mobile,19,18,11.3,6,28,91.0,47.34,37791.8
+10580,27.0,Hombre,Puerto Montt,Plata,Orgánico,Sí,No,Mobile,30,20,12.99,11,19,100.0,46.23,82191.16
+10581,55.0,Hombre,Concepción,Bronce,Orgánico,No,No,Desktop,23,16,10.79,9,3,96.0,29.55,71421.86
+10582,61.0,Hombre,Concepción,Plata,Orgánico,Sí,Sí,Mobile,43,24,12.85,8,29,100.0,33.84,96399.35
+10583,59.0,Mujer,Rancagua,Bronce,Orgánico,Sí,No,Desktop,26,21,11.33,10,27,100.0,35.79,72995.99
+10584,36.0,Mujer,Temuco,Plata,Orgánico,No,Sí,Desktop,17,1,7.01,3,42,50.0,45.19,44048.18
+10585,49.0,Mujer,Temuco,Plata,Orgánico,No,Sí,Tablet,25,32,14.84,7,62,86.0,39.25,57821.39
+10586,27.0,Mujer,,Premium,Email,No,No,Desktop,29,18,6.58,9,15,,13.85,77413.53
+10587,66.0,Otro,Rancagua,Plata,Google Ads,No,No,Mobile,22,7,4.57,4,51,81.0,39.55,49781.37
+10588,64.0,Hombre,La Serena,Bronce,Instagram,Sí,No,Mobile,6,11,6.9,4,35,78.0,23.52,36775.98
+10589,60.0,Hombre,Valparaíso,Oro,Google Ads,No,No,Mobile,37,22,9.17,4,45,51.0,37.38,72566.48
+10590,37.0,Hombre,Antofagasta,Oro,Instagram,No,Sí,Desktop,24,17,9.5,6,5,90.0,42.97,63111.18
+10591,61.0,Hombre,La Serena,Premium,Email,No,No,Mobile,32,33,13.18,2,39,58.0,45.77,62695.36
+10592,36.0,Mujer,Valparaíso,Oro,Email,No,No,Mobile,22,14,10.32,2,39,83.0,34.14,29299.61
+10593,58.0,Hombre,Puerto Montt,Plata,Instagram,No,Sí,Mobile,18,11,8.0,3,54,56.0,40.83,62050.98
+10594,66.0,Mujer,Valparaíso,Plata,Instagram,Sí,No,Desktop,29,33,9.37,5,42,78.0,38.78,79412.65
+10595,65.0,Mujer,Antofagasta,Bronce,Email,No,No,Mobile,20,12,6.67,4,90,64.0,37.44,34507.04
+10596,63.0,Hombre,Puerto Montt,Premium,Google Ads,No,Sí,Mobile,45,16,9.66,11,52,100.0,26.95,99781.33
+10597,19.0,Hombre,Antofagasta,Oro,Referido,Sí,Sí,Mobile,46,33,17.61,7,14,88.0,28.34,93426.69
+10598,57.0,Mujer,Rancagua,Plata,Referido,No,Sí,Desktop,26,10,5.46,6,74,62.0,29.91,50664.95
+10599,33.0,Mujer,Santiago,Bronce,Instagram,No,No,Desktop,19,1,3.66,5,59,73.0,45.92,35500.83
+10600,49.0,Hombre,La Serena,Bronce,Google Ads,Sí,Sí,Mobile,44,24,16.13,10,39,100.0,10.88,87053.47
+10601,69.0,Hombre,Antofagasta,Plata,Google Ads,No,Sí,Mobile,26,21,13.43,9,45,90.0,34.67,39122.92
+10602,61.0,Mujer,Santiago,Bronce,Instagram,No,No,Desktop,23,13,6.97,4,65,45.0,47.96,41174.41
+10603,45.0,Mujer,,Plata,Referido,No,Sí,Mobile,31,15,10.21,3,57,66.0,21.25,60903.26
+10604,36.0,Mujer,Rancagua,Bronce,Instagram,No,Sí,Desktop,24,15,7.78,3,81,65.0,22.9,31440.88
+10605,25.0,Hombre,Antofagasta,Plata,Google Ads,No,No,Mobile,26,14,6.49,9,31,100.0,36.75,54471.52
+10606,29.0,Hombre,Antofagasta,Plata,Orgánico,No,No,Desktop,20,10,4.45,2,52,33.0,29.98,30046.26
+10607,62.0,Mujer,Concepción,Bronce,Referido,No,No,Tablet,9,3,0.5,5,47,62.0,31.0,27570.12
+10608,39.0,Mujer,Temuco,Bronce,Instagram,No,Sí,Mobile,22,20,12.38,2,84,16.0,34.57,33190.85
+10609,29.0,Mujer,Temuco,Plata,Referido,No,No,Mobile,26,20,6.18,6,27,77.0,30.45,38418.68
+10610,42.0,Mujer,Rancagua,Bronce,Email,No,Sí,Mobile,21,14,11.41,8,25,86.0,39.15,36741.39
+10611,52.0,Hombre,Temuco,Oro,Email,No,No,Desktop,30,18,13.18,7,31,94.0,27.71,86518.11
+10612,21.0,Hombre,Temuco,Bronce,Referido,No,No,Mobile,10,1,5.18,4,88,55.0,40.94,3073.86
+10613,23.0,Mujer,Valparaíso,Plata,Orgánico,No,Sí,Mobile,22,4,6.58,4,55,66.0,29.85,54271.38
+10614,35.0,Mujer,Concepción,Bronce,Email,No,Sí,Mobile,20,19,7.81,6,39,67.0,38.3,59724.45
+10615,36.0,Mujer,La Serena,Bronce,Orgánico,No,No,Desktop,20,10,10.07,5,49,56.0,45.51,16319.41
+10616,20.0,Hombre,Temuco,Bronce,Email,No,No,Mobile,33,30,17.12,3,41,67.0,25.07,68937.31
+10617,52.0,Otro,Rancagua,Plata,Orgánico,No,No,Desktop,18,15,7.74,5,22,73.0,29.08,48109.09
+10618,39.0,Hombre,Concepción,Bronce,Orgánico,No,Sí,Mobile,14,23,12.2,2,34,69.0,56.6,56996.27
+10619,40.0,Mujer,Temuco,Bronce,Orgánico,No,No,Mobile,27,10,7.45,7,84,65.0,20.03,44794.77
+10620,48.0,Hombre,Puerto Montt,Plata,Orgánico,No,Sí,Mobile,19,23,7.99,3,49,60.0,39.42,29201.96
+10621,41.0,Mujer,La Serena,Plata,Referido,No,Sí,Desktop,30,20,15.69,6,57,81.0,28.28,55969.53
+10622,52.0,Hombre,Valparaíso,Oro,Email,No,Sí,Desktop,32,12,11.34,3,60,,36.4,66582.07
+10623,46.0,Mujer,La Serena,Bronce,Referido,No,No,Mobile,16,12,3.08,5,54,89.0,16.22,34546.43
+10624,31.0,Mujer,Santiago,Plata,Orgánico,No,Sí,Desktop,18,22,9.11,4,41,64.0,32.94,63270.57
+10625,22.0,Mujer,Rancagua,Bronce,Google Ads,No,No,Desktop,29,9,3.9,5,52,58.0,21.81,40627.55
+10626,23.0,Mujer,Puerto Montt,Oro,Instagram,Sí,No,Mobile,40,7,11.15,12,0,100.0,25.45,95265.75
+10627,,Hombre,Puerto Montt,Oro,Email,No,Sí,Mobile,50,34,18.74,7,34,80.0,19.02,118272.08
+10628,53.0,Hombre,Santiago,Bronce,Referido,No,Sí,Mobile,13,9,13.05,7,61,71.0,32.83,46174.91
+10629,29.0,Mujer,Rancagua,Plata,Google Ads,No,Sí,Desktop,14,12,7.55,3,66,45.0,41.46,35094.74
+10630,60.0,Hombre,Antofagasta,Plata,Instagram,No,Sí,Mobile,23,9,7.75,3,56,57.0,34.83,47700.4
+10631,56.0,Mujer,La Serena,Premium,Google Ads,No,No,Mobile,43,16,12.44,8,0,93.0,32.31,81810.59
+10632,52.0,Mujer,Temuco,Plata,Google Ads,No,No,Mobile,33,16,10.83,9,56,68.0,17.89,69090.41
+10633,55.0,Hombre,Santiago,Bronce,Email,No,Sí,Mobile,23,1,12.43,6,59,58.0,26.39,47071.13
+10634,29.0,Mujer,Antofagasta,Premium,Referido,Sí,Sí,Mobile,43,23,11.53,11,5,100.0,19.46,94213.16
+10635,29.0,Mujer,Puerto Montt,Oro,Referido,No,No,Mobile,29,22,11.09,6,18,93.0,42.23,73719.37
+10636,35.0,Mujer,Concepción,Premium,Orgánico,No,No,Desktop,20,12,6.15,4,77,78.0,23.09,67152.67
+10637,36.0,Hombre,Valparaíso,Oro,Email,No,No,Mobile,23,14,9.35,6,34,75.0,22.56,70389.36
+10638,52.0,Mujer,Santiago,Oro,Instagram,No,No,Mobile,10,10,6.14,4,44,78.0,25.82,36206.98
+10639,60.0,Mujer,Puerto Montt,ORO,Referido,No,No,Desktop,26,13,9.43,9,16,100.0,19.83,55452.48
+10640,56.0,Mujer,Concepción,Premium,Referido,No,No,Mobile,43,20,12.2,10,19,100.0,39.36,96111.26
+10641,39.0,Otro,Temuco,Plata,Instagram,No,Sí,tablet ,12,17,6.85,4,92,71.0,47.1,30301.17
+10642,39.0,Hombre,Rancagua,Plata,Instagram,No,No,Desktop,25,15,9.45,3,82,45.0,20.22,39515.33
+10643,36.0,Mujer,Temuco,Plata,organico,No,Sí,Desktop,14,18,11.96,5,41,86.0,31.63,34827.42
+10644,38.0,Hombre,Valparaíso,Oro,Referido,No,No,Mobile,36,21,15.56,9,45,74.0,23.41,75567.48
+10645,55.0,Hombre,Rancagua,Plata,Email,No,No,Mobile,10,18,10.16,5,49,60.0,24.25,36788.48
+10646,41.0,Mujer,Concepción,Plata,Email,Sí,No,Mobile,25,27,8.73,8,29,100.0,23.84,66998.01
+10647,61.0,Hombre,Valparaíso,Bronce,Orgánico,No,No,Mobile,24,11,8.49,3,65,51.0,40.2,45173.26
+10648,26.0,Mujer,Rancagua,Oro,Google Ads,Sí,Sí,Mobile,24,17,6.11,6,24,96.0,37.66,73612.94
+10649,36.0,Mujer,Santiago,Bronce,Referido,No,No,Mobile,5,5,5.02,2,53,64.0,43.19,20733.39
+10650,28.0,Mujer,La Serena,Oro,Email,No,Sí,Mobile,29,13,8.25,10,56,83.0,34.15,45859.24
+10651,28.0,Mujer,Valparaíso,Oro,Email,No,No,Mobile,29,26,10.7,9,8,100.0,30.46,52191.36
+10652,22.0,Mujer,Valparaíso,Bronce,Orgánico,No,Sí,Mobile,14,18,8.76,3,80,62.0,32.97,26005.8
+10653,59.0,Hombre,Antofagasta,Premium,Referido,No,No,Mobile,39,22,12.32,7,30,97.0,40.65,81121.78
+10654,57.0,Hombre,Santiago,Premium,Google Ads,No,No,Mobile,29,10,11.34,7,21,91.0,39.99,64939.91
+10655,,Mujer,La Serena,Premium,Orgánico,No,Sí,Desktop,41,15,9.3,7,31,100.0,31.62,71210.91
+10656,18.0,Mujer,Santiago,Plata,Email,Sí,No,Desktop,22,20,8.27,9,19,98.0,32.05,66413.39
+10657,34.0,Hombre,Puerto Montt,Oro,Orgánico,No,No,Mobile,21,10,8.61,5,51,76.0,35.84,65229.87
+10658,22.0,Mujer,Antofagasta,Oro,Referido,No,No,Desktop,50,12,11.36,8,42,100.0,17.72,110331.88
+10659,26.0,Mujer,Santiago,Bronce,Email,Sí,Sí,Desktop,12,8,9.67,7,56,70.0,38.77,47921.83
+10660,45.0,Hombre,Concepción,Bronce,Referido,No,No,Mobile,14,11,8.69,5,68,62.0,26.29,45105.03
+10661,68.0,Mujer,,Premium,Email,No,No,Mobile,25,20,7.86,6,61,81.0,7.44,45813.01
+10662,36.0,Hombre,Concepción,Plata,Referido,No,No,Desktop,23,17,2.56,6,35,95.0,14.15,53819.96
+10663,69.0,Hombre,Rancagua,Bronce,Orgánico,No,Sí,Tablet,15,14,5.22,3,35,53.0,29.35,53429.49
+10664,68.0,Hombre,Puerto Montt,Plata,Referido,No,Sí,Desktop,36,26,12.49,6,37,73.0,30.67,79072.19
+10665,41.0,Mujer,Santiago,Plata,Referido,No,No,Desktop,41,25,11.7,6,46,83.0,23.6,74305.36
+10666,22.0,Mujer,Rancagua,Bronce,Orgánico,No,No,Tablet,11,2,2.64,4,61,66.0,8.36,25146.43
+10667,36.0,Mujer,Antofagasta,Plata,Orgánico,No,No,Desktop,25,28,12.5,7,30,89.0,34.79,52796.99
+10668,46.0,Mujer,Concepción,Plata,Google Ads,No,No,Mobile,22,18,5.65,5,54,86.0,17.45,39759.58
+10669,53.0,Hombre,Antofagasta,Oro,Email,Sí,No,Mobile,38,17,14.02,7,35,100.0,42.61,91800.63
+10670,59.0,Hombre,santiago,Bronce,Instagram,Sí,No,Mobile,21,13,12.71,6,20,75.0,22.98,41111.13
+10671,65.0,Mujer,Valparaíso,Plata,Orgánico,No,No,Desktop,102,12,8.77,6,46,66.0,32.86,282881.16
+10672,67.0,Mujer,Santiago,Bronce,Orgánico,No,No,Desktop,19,9,1.82,2,46,62.0,24.42,12719.1
+10673,49.0,Hombre,Valparaíso,Premium,Referido,No,Sí,Desktop,36,26,14.2,10,17,,27.52,91980.62
+10674,37.0,Mujer,Valparaíso,Bronce,Email,No,No,Mobile,11,17,13.28,6,57,66.0,38.22,31810.35
+10675,39.0,Hombre,Antofagasta,Oro,Google Ads,No,Sí,Desktop,15,17,10.08,4,57,69.0,34.45,53890.48
+10676,25.0,Hombre,Santiago,Plata,Orgánico,Sí,No,Desktop,21,22,9.05,3,72,58.0,23.1,17498.79
+10677,38.0,Mujer,Valparaíso,Oro,Orgánico,No,No,Mobile,24,15,8.05,8,45,88.0,12.17,55805.21
+10678,58.0,Hombre,Rancagua,Premium,Orgánico,No,Sí,Tablet,28,25,17.3,4,62,66.0,25.72,46950.26
+10679,57.0,Mujer,Rancagua,Bronce,Email,No,Sí,Mobile,14,9,6.49,5,59,60.0,19.79,64929.12
+10680,29.0,Hombre,Puerto Montt,Plata,Email,No,No,Mobile,35,25,10.78,2,55,83.0,42.84,55444.22
+10681,20.0,Hombre,Puerto Montt,Oro,Instagram,No,No,Desktop,22,19,12.6,5,36,84.0,9.73,73079.49
+10682,24.0,Mujer,Temuco,Oro,Orgánico,No,No,Mobile,42,22,9.89,8,38,100.0,7.24,89570.09
+10683,47.0,Hombre,Santiago,Plata,Email,No,Sí,Mobile,18,1,10.34,1,61,42.0,45.81,3000.0
+10684,38.0,Hombre,Concepción,Plata,Google Ads,No,No,Mobile,27,13,15.38,11,0,100.0,36.04,45401.68
+10685,22.0,Hombre,Rancagua,Oro,Orgánico,No,No,Mobile,30,2,8.33,4,51,59.0,28.3,56222.9
+10686,50.0,Mujer,Rancagua,Plata,Referido,Sí,No,Desktop,24,18,12.7,2,108,54.0,25.27,48176.44
+10687,63.0,Hombre,Antofagasta,Bronce,Google Ads,No,Sí,Mobile,10,8,7.6,3,51,38.0,30.74,21617.52
+10688,23.0,Otro,Antofagasta,Oro,Orgánico,No,No,Mobile,27,9,6.7,6,47,91.0,42.79,51590.9
+10689,39.0,Mujer,Puerto Montt,Premium,Instagram,No,Sí,Mobile,34,19,12.01,10,15,100.0,44.67,70514.32
+10690,35.0,Mujer,Concepción,Premium,Email,No,No,Mobile,39,15,5.87,5,62,75.0,35.8,83799.64
+10691,64.0,Mujer,Rancagua,Bronce,Google Ads,No,No,Desktop,21,9,11.54,5,23,71.0,21.8,64707.67
+10692,27.0,Hombre,Puerto Montt,Premium,Email,No,Sí,Mobile,33,19,10.9,10,0,100.0,22.38,63309.18
+10693,30.0,Hombre,Santiago,Plata,Instagram,Sí,No,Mobile,30,19,15.45,8,63,89.0,31.46,47368.4
+10694,59.0,Mujer,Rancagua,Bronce,Orgánico,No,Sí,Desktop,20,23,9.14,2,93,41.0,34.9,53218.51
+10695,47.0,Otro,Antofagasta,Bronce,Google Ads,No,No,Mobile,18,16,8.59,6,49,61.0,33.49,61939.82
+10696,38.0,Mujer,La Serena,Oro,Referido,No,No,Mobile,24,11,5.05,7,56,89.0,21.1,40070.46
+10697,51.0,Hombre,Puerto Montt,Premium,Email,No,No,Desktop,24,23,12.18,10,0,100.0,30.25,49614.62
+10698,42.0,Hombre,Antofagasta,Bronce,Instagram,No,No,Mobile,20,10,4.16,9,18,100.0,24.23,49732.44
+10699,28.0,Hombre,Valparaíso,Bronce,Referido,No,Sí,Mobile,4,9,4.6,4,71,46.0,33.61,40489.43
+10700,69.0,Mujer,Temuco,Plata,Email,No,No,Mobile,19,11,11.47,5,35,77.0,43.52,40199.91
+10701,60.0,Mujer,Rancagua,Bronce,Google Ads,No,Sí,Mobile,25,13,9.06,6,56,69.0,43.35,47694.43
+10702,,Hombre,Antofagasta,Oro,Email,Sí,No,Mobile,37,25,16.44,11,0,100.0,40.87,86010.52
+10703,61.0,Mujer,Temuco,Oro,Orgánico,No,No,Desktop,30,21,12.24,7,26,100.0,53.21,86960.59
+10704,31.0,Hombre,Temuco,Plata,Orgánico,No,No,Mobile,27,14,13.48,7,54,76.0,23.65,43757.65
+10705,26.0,Hombre,Temuco,Plata,Orgánico,No,No,Mobile,25,14,8.64,3,60,58.0,47.52,46979.34
+10706,19.0,Mujer,Temuco,Bronce,Google Ads,Sí,No,Mobile,27,19,14.94,5,37,72.0,22.95,82720.55
+10707,69.0,Hombre,La Serena,Bronce,Referido,No,Sí,Mobile,22,15,9.13,5,60,65.0,39.9,17523.37
+10708,62.0,Hombre,Puerto Montt,Bronce,Instagram,No,No,Mobile,18,12,4.04,5,61,78.0,20.88,42319.99
+10709,20.0,Mujer,Valparaíso,Plata,Orgánico,No,No,Desktop,23,13,12.32,7,53,98.0,28.21,44874.21
+10710,33.0,Mujer,Antofagasta,Bronce,Referido,No,Sí,Desktop,21,11,6.78,4,62,54.0,28.37,19078.23
+10711,35.0,Hombre,Puerto Montt,Oro,Email,No,Sí,Mobile,38,26,15.4,10,7,92.0,19.31,89738.86
+10712,64.0,Mujer,Rancagua,Bronce,Orgánico,No,No,Mobile,9,1,8.35,6,33,63.0,30.17,42307.03
+10713,61.0,Mujer,Antofagasta,Bronce,Orgánico,No,No,Mobile,23,20,11.3,7,85,77.0,37.76,45932.55
+10714,28.0,Mujer,Temuco,Bronce,Email,No,No,Tablet,18,25,8.63,6,49,77.0,24.36,44878.71
+10715,61.0,Mujer,Temuco,Plata,Referido,Sí,Sí,Tablet,26,9,10.9,5,30,80.0,34.81,70154.9
+10716,39.0,Hombre,Rancagua,Premium,Instagram,No,Sí,Mobile,50,28,14.89,11,0,100.0,40.43,122804.99
+10717,46.0,Hombre,Rancagua,Plata,Orgánico,No,No,Desktop,18,15,7.98,7,36,68.0,62.09,73760.48
+10718,48.0,Hombre,Temuco,Premium,Instagram,No,No,Mobile,26,18,9.37,4,31,66.0,33.69,53668.1
+10719,54.0,Hombre,Concepción,Bronce,Orgánico,No,Sí,Desktop,24,14,10.85,4,74,90.0,31.74,65759.64
+10720,24.0,Mujer,Antofagasta,Plata,Orgánico,No,No,Mobile,12,13,5.86,10,51,100.0,42.55,26456.85
+10721,44.0,Hombre,Concepción,Oro,Orgánico,No,Sí,Mobile,27,29,10.38,7,56,93.0,45.81,56436.91
+10722,66.0,Hombre,Antofagasta,Premium,Referido,No,No,Desktop,31,14,5.84,3,55,72.0,33.17,65319.82
+10723,62.0,Mujer,La Serena,Oro,Referido,No,Sí,Mobile,20,7,6.41,2,84,69.0,30.09,28969.94
+10724,66.0,Hombre,Valparaíso,Premium,Google Ads,No,Sí,Desktop,42,25,9.31,4,63,,46.52,80641.18
+10725,36.0,Hombre,Valparaíso,Bronce,Instagram,No,No,Desktop,15,12,6.65,2,61,51.0,41.81,14282.29
+10726,45.0,Mujer,Santiago,Plata,Orgánico,No,Sí,Mobile,28,19,9.37,7,25,89.0,34.67,71750.63
+10727,26.0,Hombre,La Serena,Premium,Orgánico,No,No,Desktop,37,26,11.23,8,12,90.0,34.55,89520.75
+10728,25.0,Mujer,Rancagua,Oro,Orgánico,No,Sí,Mobile,35,27,10.57,5,96,59.0,42.82,48348.74
+10729,36.0,Hombre,La Serena,Plata,Referido,No,No,Mobile,20,9,10.32,4,96,70.0,43.88,45758.77
+10730,61.0,Mujer,Rancagua,Oro,Orgánico,No,No,Mobile,31,15,9.51,6,62,71.0,38.31,38855.43
+10731,47.0,Mujer,Concepción,Bronce,Referido,No,Sí,Desktop,29,16,11.37,7,42,81.0,46.33,75429.09
+10732,52.0,Mujer,Temuco,Plata,Google Ads,Sí,Sí,Mobile,31,20,14.43,11,2,100.0,23.82,83987.3
+10733,70.0,Hombre,Temuco,Oro,Instagram,No,No,Desktop,28,23,6.51,8,83,95.0,29.88,67477.93
+10734,56.0,Mujer,Concepción,Oro,Email,Sí,No,Desktop,38,28,11.49,4,28,82.0,23.38,73579.46
+10735,23.0,Hombre,Concepción,Bronce,Google Ads,Sí,No,Mobile,22,15,11.49,9,47,100.0,26.37,63523.74
+10736,69.0,Mujer,Santiago,Plata,Orgánico,No,No,Mobile,20,4,5.85,2,80,47.0,35.56,28888.33
+10737,,Mujer,Valparaíso,Bronce,Google Ads,No,No,Mobile,15,1,9.1,7,22,76.0,36.29,54676.84
+10738,63.0,Mujer,Puerto Montt,Premium,Orgánico,No,Sí,Mobile,24,16,9.41,10,44,100.0,18.87,86308.48
+10739,33.0,Hombre,Puerto Montt,Plata,Orgánico,No,No,Desktop,14,19,10.4,3,96,57.0,29.47,11992.95
+10740,60.0,Mujer,Santiago,Premium,Google Ads,No,No,Mobile,54,27,17.9,12,0,100.0,24.37,129058.28
+10741,62.0,Hombre,Concepción,Bronce,EMAIL ,No,No,Mobile,17,13,11.26,5,46,79.0,31.91,32656.15
+10742,29.0,Hombre,,Bronce,Instagram,No,No,Mobile,33,20,10.45,2,74,51.0,52.05,172431.04
+10743,20.0,Hombre,Antofagasta,Bronce,Referido,Sí,No,Mobile,32,11,11.04,8,8,88.0,17.15,70973.1
+10744,64.0,Mujer,Temuco,Plata,Google Ads,Sí,Sí,Mobile,36,28,11.5,6,21,90.0,36.66,73973.94
+10745,,Otro,Rancagua,Plata,Referido,No,No,Mobile,22,11,10.06,5,66,76.0,52.11,60207.97
+10746,62.0,Mujer,Concepción,Bronce,Referido,No,No,Desktop,17,12,8.02,5,59,69.0,28.38,44895.65
+10747,66.0,Hombre,Concepción,Bronce,Instagram,No,No,Desktop,29,9,5.84,3,57,55.0,27.97,45419.94
+10748,40.0,Hombre,Concepción,Bronce,Referido,Sí,No,Desktop,26,30,13.02,4,54,57.0,30.11,47656.16
+10749,66.0,Mujer,La Serena,Plata,Instagram,No,No,Mobile,25,13,8.53,8,57,100.0,36.28,56276.1
+10750,18.0,Hombre,Concepción,Oro,Google Ads,No,Sí,Desktop,36,13,7.53,5,74,64.0,41.9,49100.75
+10751,30.0,Hombre,Temuco,Bronce,Email,No,No,Mobile,21,20,13.04,7,38,63.0,22.4,61275.43
+10752,69.0,Mujer,Valparaíso,Oro,Orgánico,No,Sí,Desktop,17,22,9.88,6,29,92.0,28.0,70533.0
+10753,59.0,Mujer,La Serena,Bronce,Referido,Sí,No,Desktop,24,20,13.48,1,61,59.0,36.6,49696.83
+10754,51.0,Mujer,Valparaíso,Plata,Orgánico,Sí,No,Desktop,39,23,15.54,6,39,100.0,29.79,92057.52
+10755,26.0,Hombre,Antofagasta,Plata,Referido,No,No,Tablet,39,15,8.45,9,13,86.0,23.05,48026.48
+10756,49.0,Hombre,Santiago,Bronce,Orgánico,No,No,Desktop,13,4,3.75,3,64,31.0,28.72,20394.67
+10757,54.0,Hombre,La Serena,Premium,Google Ads,No,Sí,Mobile,40,32,16.67,6,23,73.0,41.98,82493.43
+10758,38.0,Hombre,Santiago,Bronce,Google Ads,No,No,Mobile,27,7,6.92,4,44,44.0,28.21,42349.22
+10759,70.0,Mujer,Valparaíso,Oro,Instagram,No,Sí,Mobile,20,10,3.94,4,52,79.0,41.62,39875.53
+10760,46.0,Hombre,santiago,Oro,Email,No,No,Mobile,25,18,6.89,8,46,89.0,24.68,47242.31
+10761,20.0,Mujer,Rancagua,Premium,Instagram,No,Sí,Mobile,33,12,9.95,7,39,99.0,49.71,56365.22
+10762,27.0,Hombre,Temuco,Premium,Orgánico,Sí,No,Mobile,29,28,8.09,9,36,100.0,26.82,81980.17
+10763,36.0,Mujer,La Serena,Oro,Instagram,No,No,Mobile,32,17,9.32,8,34,87.0,37.43,47737.86
+10764,52.0,Hombre,Temuco,Bronce,Orgánico,No,Sí,Mobile,22,4,5.21,8,50,89.0,26.02,49583.53
+10765,23.0,Mujer,Antofagasta,Bronce,Orgánico,No,Sí,Tablet,29,13,11.23,7,19,79.0,21.81,59858.75
+10766,64.0,Mujer,La Serena,Plata,Instagram,No,No,Tablet,22,4,10.98,8,49,87.0,30.72,41184.01
+10767,38.0,Hombre,Concepción,Premium,Instagram,Sí,No,Mobile,54,34,11.21,8,0,100.0,38.96,104992.77
+10768,52.0,Mujer,Antofagasta,Plata,Referido,No,Sí,Mobile,24,10,8.0,1,90,50.0,37.34,35884.28
+10769,31.0,Mujer,Concepción,Oro,Orgánico,No,No,Mobile,46,18,14.63,10,16,100.0,14.89,104767.31
+10770,37.0,Mujer,La Serena,Oro,Google Ads,No,No,Mobile,29,25,16.43,6,32,75.0,36.35,82217.83
+10771,42.0,Hombre,Temuco,Plata,Instagram,No,Sí,Mobile,22,15,11.1,6,20,83.0,39.15,37369.12
+10772,24.0,Hombre,Valparaíso,Bronce,Instagram,Sí,No,Desktop,32,20,7.8,11,42,100.0,24.84,72010.8
+10773,,Hombre,Temuco,Premium,Instagram,No,No,Desktop,35,25,9.11,9,0,100.0,39.38,102239.55
+10774,18.0,Hombre,Temuco,Plata,Email,Sí,No,Mobile,39,19,9.75,8,33,100.0,31.44,69869.16
+10775,24.0,Mujer,Puerto Montt,Plata,Orgánico,No,Sí,Mobile,28,18,10.85,9,0,100.0,61.57,69583.86
+10776,46.0,Mujer,Santiago,Bronce,Orgánico,Sí,No,Mobile,20,15,9.24,9,18,100.0,27.45,57007.73
+10777,18.0,Hombre,Puerto Montt,Bronce,Google Ads,No,Sí,Mobile,27,17,8.58,9,17,75.0,36.96,47767.29
+10778,24.0,Mujer,Concepción,Plata,Instagram,No,No,Desktop,38,17,15.7,9,46,91.0,19.04,80796.97
+10779,62.0,Mujer,Temuco,Plata,Orgánico,No,No,Desktop,26,17,10.71,6,24,77.0,36.11,37345.28
+10780,62.0,Mujer,Temuco,Bronce,Orgánico,Sí,Sí,Mobile,35,30,12.93,5,74,81.0,29.64,70557.46
+10781,46.0,Hombre,Concepción,Plata,Google Ads,No,Sí,Mobile,33,26,11.73,7,68,80.0,33.98,50729.05
+10782,35.0,Hombre,Rancagua,Oro,Email,No,No,Desktop,26,12,12.28,10,20,91.0,35.55,49423.3
+10783,60.0,Hombre,Antofagasta,Oro,Referido,No,Sí,Mobile,27,20,12.39,3,39,56.0,26.4,50791.62
+10784,59.0,Mujer,Valparaíso,Bronce,Referido,No,No,Desktop,16,26,15.53,6,20,73.0,26.14,25262.85
+10785,27.0,Hombre,Santiago,Premium,Referido,Sí,No,Mobile,38,33,13.41,9,23,100.0,33.56,96950.23
+10786,70.0,Hombre,Valparaíso,Bronce,Email,No,Sí,Mobile,29,11,6.34,4,71,56.0,31.9,31346.13
+10787,63.0,Hombre,Temuco,Oro,Email,No,Sí,Mobile,28,9,8.7,2,45,52.0,31.03,60616.75
+10788,35.0,Hombre,Valparaíso,Bronce,Email,No,No,Mobile,15,17,12.19,8,17,80.0,29.87,46694.59
+10789,70.0,Mujer,Santiago,Bronce,Orgánico,No,No,Mobile,22,12,11.86,7,13,95.0,24.68,49954.11
+10790,63.0,Hombre,Concepción,Premium,Google Ads,No,No,Mobile,40,21,11.89,5,35,74.0,33.41,92084.6
+10791,59.0,Mujer,Rancagua,Bronce,Google Ads,No,No,Mobile,69,28,7.49,7,49,75.0,42.17,160532.52
+10792,43.0,Hombre,,Plata,Orgánico,No,No,Mobile,22,26,12.26,5,72,62.0,38.14,32911.65
+10793,61.0,Hombre,Santiago,Bronce,Orgánico,Sí,No,Mobile,25,13,12.65,6,43,80.0,53.28,55845.1
+10794,44.0,Hombre,Antofagasta,Plata,Email,Sí,No,Mobile,35,24,12.16,9,0,100.0,36.26,85820.48
+10795,39.0,Mujer,La Serena,Plata,Instagram,No,Sí,Mobile,20,14,12.0,4,19,80.0,49.44,46413.2
+10796,57.0,Mujer,Valparaíso,Plata,Google Ads,No,No,Mobile,25,9,13.42,6,49,66.0,18.96,19765.58
+10797,41.0,Mujer,La Serena,Bronce,Email,No,Sí,Desktop,10,11,13.25,8,90,74.0,27.69,35411.25
+10798,47.0,Hombre,Valparaíso,Plata,Orgánico,No,No,Desktop,14,10,4.75,8,47,97.0,26.16,49326.87
+10799,49.0,Hombre,Puerto Montt,Oro,Google Ads,No,Sí,Desktop,44,22,14.5,5,57,65.0,28.39,89965.91
+10800,49.0,Hombre,Concepción,Plata,Instagram,No,No,Mobile,20,21,12.65,5,75,63.0,47.74,7279.66
+10801,39.0,Mujer,Rancagua,Oro,Orgánico,No,Sí,Desktop,23,26,10.37,4,47,64.0,35.02,52187.21
+10802,31.0,Hombre,Rancagua,Bronce,Google Ads,No,No,Desktop,24,17,6.32,6,85,51.0,42.3,52098.16
+10803,40.0,Mujer,Concepción,Plata,Google Ads,Sí,No,DESKTOP,28,18,11.25,7,13,98.0,46.54,56976.05
+10804,18.0,Mujer,Temuco,Bronce,Orgánico,No,Sí,Desktop,24,7,10.96,4,75,54.0,64.65,25891.61
+10805,38.0,Hombre,Concepción,Premium,Instagram,No,Sí,Desktop,36,18,11.78,8,28,100.0,36.24,86553.72
+10806,70.0,Hombre,Temuco,Plata,Referido,No,Sí,Desktop,27,23,7.77,9,43,96.0,28.99,79237.8
+10807,45.0,Mujer,La Serena,Plata,Google Ads,No,No,Desktop,21,20,7.95,5,35,42.0,49.4,25328.82
+10808,36.0,Hombre,Santiago,Premium,Email,No,No,Mobile,39,15,11.59,6,26,86.0,38.94,72931.48
+10809,54.0,Hombre,Concepción,Bronce,Email,No,Sí,Mobile,21,21,9.54,6,49,74.0,25.37,56020.31
+10810,39.0,Mujer,Antofagasta,Bronce,Orgánico,No,No,Mobile,15,11,10.02,4,79,54.0,57.78,39931.47
+10811,47.0,Mujer,Concepción,Premium,Instagram,No,No,Mobile,41,23,13.42,9,46,91.0,37.51,92966.61
+10812,51.0,Mujer,Rancagua,Premium,Orgánico,No,Sí,Tablet,41,31,12.91,8,20,100.0,35.6,75315.41
+10813,39.0,Hombre,Temuco,Bronce,Referido,No,Sí,Mobile,24,19,11.71,8,57,77.0,37.41,25005.73
+10814,,Mujer,Puerto Montt,Plata,Referido,No,No,Tablet,24,25,10.52,2,38,48.0,7.63,48869.15
+10815,42.0,Mujer,Temuco,premium,Referido,No,No,Mobile,14,16,9.41,0,103,51.0,36.94,40214.14
+10816,61.0,Hombre,La Serena,Oro,Google Ads,No,No,Desktop,34,22,11.61,5,44,74.0,12.75,63023.36
+10817,25.0,Mujer,Santiago,Premium,Orgánico,No,No,Desktop,36,16,11.55,5,42,74.0,20.21,71590.87
+10818,42.0,Mujer,Puerto Montt,Bronce,Email,No,No,Mobile,21,8,7.55,5,60,66.0,40.82,14978.78
+10819,22.0,Hombre,Puerto Montt,Bronce,Instagram,No,No,Desktop,26,6,8.37,5,12,61.0,37.83,39876.47
+10820,48.0,Hombre,La Serena,Plata,Instagram,No,Sí,Desktop,16,24,13.44,5,70,87.0,38.96,43584.86
+10821,66.0,Hombre,Temuco,Plata,Google Ads,No,No,Mobile,15,6,5.2,4,28,,34.62,58263.32
+10822,70.0,Hombre,Rancagua,Oro,Instagram,No,No,Mobile,28,23,12.21,7,29,97.0,20.13,78050.7
+10823,19.0,Hombre,Antofagasta,Plata,Referido,No,No,Mobile,27,27,12.29,7,57,87.0,29.8,69514.09
+10824,21.0,Mujer,Temuco,plata ,Referido,No,No,Mobile,7,11,4.32,3,54,47.0,43.15,31953.61
+10825,43.0,Hombre,Temuco,Bronce,Referido,No,Sí,Desktop,8,19,9.71,4,61,57.0,37.81,30280.55
+10826,36.0,Mujer,Concepción,Oro,Orgánico,No,No,Mobile,27,19,8.48,1,36,62.0,29.44,56575.76
+10827,62.0,Hombre,Rancagua,Oro,Instagram,No,Sí,Mobile,19,20,13.78,4,37,88.0,22.62,68023.43
+10828,56.0,Hombre,Antofagasta,Premium,Orgánico,No,Sí,Desktop,26,19,5.03,4,84,86.0,33.42,25755.06
+10829,39.0,Hombre,Rancagua,Plata,Google Ads,Sí,No,Tablet,29,22,16.5,6,54,85.0,23.82,79854.69
+10830,44.0,Hombre,Valparaíso,Premium,Referido,No,Sí,Desktop,40,36,19.27,9,23,100.0,26.04,96182.96
+10831,44.0,Mujer,Temuco,Plata,Google Ads,No,No,Mobile,26,14,11.25,5,44,68.0,30.07,57405.15
+10832,36.0,Mujer,Valparaíso,Plata,Google Ads,No,No,Mobile,31,19,11.92,7,32,69.0,24.11,78952.49
+10833,69.0,Hombre,Puerto Montt,Oro,Orgánico,No,No,Desktop,26,13,9.53,6,37,59.0,24.29,75029.03
+10834,57.0,Mujer,Rancagua,Oro,Referido,Sí,No,Desktop,22,11,10.74,7,11,100.0,30.14,60912.82
+10835,37.0,Mujer,La Serena,Plata,Orgánico,Sí,No,Desktop,20,19,13.17,3,53,69.0,44.23,61347.25
+10836,23.0,Hombre,Temuco,Plata,Google Ads,No,No,Desktop,19,15,9.45,7,21,87.0,24.48,48351.12
+10837,44.0,Mujer,Valparaíso,Bronce,Referido,No,Sí,Desktop,16,8,9.25,4,82,46.0,27.66,23156.45
+10838,41.0,Mujer,Antofagasta,Plata,Email,Sí,Sí,Desktop,34,13,10.57,10,0,100.0,34.91,69275.34
+10839,27.0,Mujer,Puerto Montt,Plata,Google Ads,No,Sí,Mobile,31,21,3.58,5,21,72.0,24.0,55404.18
+10840,41.0,Mujer,Rancagua,Plata,Google Ads,No,No,Mobile,26,14,5.6,6,79,68.0,18.03,42748.9
+10841,40.0,Mujer,Valparaíso,Bronce,Instagram,Sí,No,Mobile,18,10,9.91,5,67,65.0,41.74,48173.42
+10842,68.0,Otro,Temuco,Bronce,Orgánico,Sí,No,Mobile,12,17,11.16,7,28,87.0,21.33,72006.39
+10843,44.0,Hombre,Concepción,Plata,Referido,Sí,Sí,Mobile,32,23,15.27,6,70,86.0,17.71,86196.02
+10844,54.0,Mujer,Valparaíso,Plata,Instagram,Sí,Sí,Mobile,39,30,17.24,10,36,100.0,28.39,82080.48
+10845,29.0,Mujer,Rancagua,Oro,Referido,Sí,No,Mobile,29,16,13.67,9,0,100.0,29.51,74868.92
+10846,55.0,Mujer,Rancagua,Oro,Instagram,No,No,Desktop,35,20,14.91,8,0,99.0,32.02,61455.35
+10847,65.0,Mujer,Concepción,Premium,Google Ads,Sí,No,Mobile,45,36,18.61,10,12,100.0,42.0,135864.94
+10848,40.0,Mujer,Puerto Montt,Oro,Google Ads,No,No,Mobile,32,33,9.82,5,22,75.0,33.86,82541.22
+10849,22.0,Hombre,Concepción,Plata,Instagram,No,No,Tablet,29,20,7.95,4,49,47.0,27.65,18851.91
+10850,52.0,Hombre,La Serena,Oro,Google Ads,No,No,Desktop,24,5,7.04,9,29,96.0,22.15,54142.03
+10851,66.0,Mujer,Rancagua,Oro,Google Ads,No,No,Mobile,36,23,7.66,7,56,90.0,38.0,45269.19
+10852,42.0,Mujer,La Serena,Bronce,Google Ads,No,No,Mobile,23,19,7.1,5,38,67.0,38.9,61709.93
+10853,22.0,Hombre,La Serena,Plata,Referido,No,Sí,Desktop,27,7,7.79,9,21,99.0,58.49,60940.49
+10854,37.0,Otro,Concepción,Plata,Orgánico,No,Sí,Mobile,22,26,,8,64,80.0,36.97,64599.88
+10855,20.0,Mujer,Temuco,Bronce,Email,No,Sí,Mobile,12,3,2.43,3,68,52.0,24.99,3000.0
+10856,41.0,Mujer,La Serena,Premium,Email,No,Sí,Mobile,38,15,4.53,7,65,100.0,24.98,64558.84
+10857,51.0,Mujer,Temuco,Oro,Google Ads,No,Sí,Tablet,28,17,12.21,3,50,68.0,29.19,57817.63
+10858,30.0,Mujer,Santiago,Plata,Instagram,No,Sí,Desktop,32,28,6.77,8,22,81.0,30.08,76416.5
+10859,18.0,Mujer,Temuco,Premium,Orgánico,Sí,No,DESKTOP,46,23,12.93,12,4,100.0,43.1,85811.0
+10860,46.0,Hombre,La Serena,Bronce,Referido,Sí,Sí,Tablet,13,13,6.33,5,7,100.0,40.53,37091.02
+10861,25.0,Hombre,Santiago,Oro,Email,No,No,Desktop,19,13,6.99,6,43,93.0,29.52,37440.25
+10862,48.0,Mujer,Rancagua,Plata,Google Ads,No,No,Mobile,23,11,6.42,7,0,87.0,24.42,54627.07
+10863,68.0,Hombre,Puerto Montt,Oro,Referido,No,Sí,Desktop,19,12,5.18,8,47,80.0,35.65,70002.76
+10864,69.0,Hombre,Puerto Montt,Plata,Referido,No,Sí,Mobile,19,14,9.57,7,41,71.0,32.07,40012.37
+10865,38.0,Mujer,Valparaíso,Bronce,Instagram,No,No,Mobile,19,6,4.44,5,25,61.0,26.14,50301.21
+10866,37.0,Mujer,La Serena,Plata,Instagram,No,Sí,Mobile,15,17,7.68,4,45,78.0,35.95,50026.75
+10867,27.0,Hombre,Santiago,Oro,Referido,No,No,Desktop,38,19,12.3,5,76,69.0,35.93,69692.08
+10868,21.0,Hombre,Temuco,Premium,Email,No,Sí,Mobile,31,22,,10,10,100.0,44.84,85175.57
+10869,20.0,Mujer,Temuco,Bronce,Orgánico,No,Sí,Mobile,17,8,6.52,3,51,60.0,36.4,46177.42
+10870,45.0,Hombre,La Serena,Bronce,Orgánico,No,No,Mobile,30,19,7.56,7,40,89.0,40.6,33302.44
+10871,24.0,Mujer,Rancagua,Oro,Instagram,No,No,Mobile,21,19,10.46,8,52,91.0,32.02,50520.64
+10872,49.0,Otro,Puerto Montt,Plata,Google Ads,No,No,Desktop,26,14,9.2,6,36,85.0,23.01,58374.6
+10873,55.0,Mujer,Rancagua,Bronce,Referido,No,No,Mobile,28,17,10.63,8,21,89.0,28.51,50124.32
+10874,41.0,Mujer,Concepción,Plata,Referido,No,Sí,Mobile,33,7,9.57,1,77,28.0,44.0,50180.42
+10875,60.0,Hombre,Temuco,Plata,Referido,No,No,Desktop,32,22,15.56,2,99,51.0,33.29,66069.3
+10876,69.0,Mujer,Antofagasta,Plata,Orgánico,No,No,Mobile,23,3,8.02,5,29,59.0,45.99,32196.43
+10877,58.0,Hombre,Puerto Montt,Bronce,Orgánico,No,No,Desktop,24,27,14.45,6,54,58.0,39.34,52859.92
+10878,38.0,Mujer,Concepción,Bronce,Referido,No,Sí,Mobile,4,12,10.34,7,62,67.0,25.27,26126.76
+10879,23.0,Hombre,Puerto Montt,Oro,Google Ads,Sí,No,Mobile,26,15,15.25,6,38,79.0,20.26,74747.43
+10880,28.0,Mujer,Rancagua,Oro,Orgánico,No,No,Mobile,21,20,8.58,4,50,66.0,35.37,29666.03
+10881,33.0,Mujer,,Bronce,Google Ads,No,No,Mobile,24,21,9.91,3,100,62.0,24.55,44101.5
+10882,43.0,Hombre,Concepción,Plata,Google Ads,No,No,Desktop,13,17,8.37,6,18,73.0,24.92,60369.99
+10883,62.0,Hombre,Concepción,Bronce,Google Ads,No,No,Mobile,14,4,6.56,7,58,88.0,28.6,34733.55
+10884,48.0,Mujer,Concepción,Bronce,Referido,No,No,Desktop,29,21,12.42,4,39,61.0,28.91,34831.14
+10885,29.0,Hombre,Rancagua,Plata,Referido,No,No,Tablet,26,18,9.24,6,16,86.0,26.24,57950.97
+10886,50.0,Hombre,Puerto Montt,Plata,Instagram,Sí,Sí,Desktop,29,17,15.14,7,16,88.0,46.88,70101.23
+10887,36.0,Mujer,Santiago,Bronce,Orgánico,No,No,Mobile,16,6,0.5,5,79,45.0,46.42,18599.33
+10888,30.0,Hombre,Puerto Montt,Plata,Referido,Sí,No,Desktop,38,32,17.13,9,42,97.0,40.3,73804.69
+10889,43.0,Hombre,Rancagua,Premium,Referido,No,Sí,Mobile,41,31,17.34,10,0,100.0,45.26,105290.73
+10890,51.0,Hombre,Rancagua,Plata,Google Ads,No,No,Mobile,25,15,9.74,6,30,90.0,37.19,62273.98
+10891,45.0,Mujer,La Serena,Oro,Referido,No,No,Desktop,33,18,9.23,4,68,83.0,34.55,60477.18
+10892,61.0,Mujer,Santiago,Plata,Email,Sí,No,Mobile,40,32,15.72,8,13,100.0,44.51,96924.21
+10893,69.0,Mujer,Rancagua,Plata,Email,Sí,Sí,Desktop,29,15,9.7,7,25,91.0,38.18,59605.48
+10894,64.0,Hombre,La Serena,Oro,Orgánico,Sí,Sí,Mobile,30,18,13.17,10,0,100.0,46.46,81373.67
+10895,31.0,Mujer,La Serena,Premium,Orgánico,No,Sí,Mobile,31,25,14.57,7,10,81.0,30.18,61943.74
+10896,46.0,Hombre,Temuco,Bronce,Referido,No,No,Desktop,19,14,4.06,4,71,71.0,28.72,39850.64
+10897,,Hombre,Valparaíso,Bronce,Orgánico,No,Sí,Mobile,19,8,8.28,7,45,64.0,41.07,34013.06
+10898,22.0,Mujer,Valparaíso,Premium,Google Ads,No,No,Desktop,32,31,15.17,6,48,82.0,12.24,88259.02
+10899,56.0,Mujer,La Serena,Bronce,Instagram,No,No,Mobile,21,6,9.8,4,45,93.0,31.6,36895.92
+10900,22.0,Hombre,Santiago,Plata,Instagram,No,No,Desktop,16,9,5.22,3,0,65.0,30.07,33467.65
+10901,58.0,Hombre,Puerto Montt,Plata,Google Ads,No,Sí,Desktop,40,28,9.7,8,11,88.0,28.87,80284.56
+10902,21.0,Hombre,Rancagua,Plata,Email,No,Sí,Mobile,19,14,10.5,6,22,79.0,49.64,47814.28
+10903,56.0,Hombre,Concepción,Plata,Google Ads,No,No,Mobile,31,23,,1,29,63.0,55.21,49934.57
+10904,34.0,Mujer,Puerto Montt,Premium,Referido,No,No,Mobile,40,29,13.95,9,33,100.0,13.09,96511.5
+10905,62.0,Hombre,Rancagua,Premium,Google Ads,No,Sí,Mobile,33,24,7.64,7,31,87.0,40.38,68713.1
+10906,19.0,Mujer,Rancagua,Oro,Orgánico,Sí,No,Desktop,36,28,21.14,9,0,100.0,29.53,102186.44
+10907,33.0,Mujer,Rancagua,Premium,Referido,No,Sí,Mobile,39,23,13.55,5,56,89.0,39.53,79148.75
+10908,56.0,Hombre,Temuco,Oro,Email,No,No,Desktop,30,24,10.31,6,51,69.0,28.92,54859.35
+10909,33.0,Mujer,Puerto Montt,Bronce,Instagram,No,No,Desktop,24,19,11.66,5,46,61.0,18.53,32808.15
+10910,38.0,Hombre,Concepción,Plata,Referido,No,No,Mobile,25,8,5.47,10,41,100.0,35.31,61078.91
+10911,57.0,Hombre,Concepción,Premium,Instagram,Sí,Sí,Mobile,47,15,10.17,8,16,100.0,40.62,80143.25
+10912,29.0,Mujer,Rancagua,Premium,Google Ads,No,Sí,Mobile,31,20,12.56,7,24,94.0,40.05,60057.21
+10913,30.0,Hombre,La Serena,Bronce,Google Ads,No,No,Desktop,8,5,0.5,4,72,60.0,37.7,35253.55
+10914,65.0,Mujer,Santiago,Bronce,Instagram,Sí,No,Mobile,35,20,15.44,8,47,75.0,35.17,86282.72
+10915,47.0,Hombre,La Serena,Oro,Referido,No,Sí,Desktop,26,15,13.11,7,48,83.0,38.17,64574.95
+10916,23.0,Hombre,Puerto Montt,Oro,Google Ads,Sí,Sí,Desktop,37,13,11.34,8,10,100.0,33.92,102457.53
+10917,37.0,Otro,Concepción,Bronce,Email,Sí,No,Mobile,26,28,13.78,4,67,64.0,35.53,56517.29
+10918,43.0,Hombre,Santiago,Bronce,Google Ads,Sí,No,Mobile,26,17,4.3,7,36,82.0,25.27,53857.07
+10919,49.0,Hombre,Temuco,Bronce,Google Ads,Sí,No,Desktop,27,19,15.17,6,58,100.0,27.22,81113.33
+10920,25.0,Hombre,Santiago,Bronce,Orgánico,No,No,Desktop,27,15,10.17,4,31,57.0,31.57,48271.31
+10921,48.0,Mujer,Concepción,Bronce,Referido,Sí,No,Mobile,19,18,8.9,7,10,72.0,32.68,67021.51
+10922,66.0,Mujer,Rancagua,Oro,Instagram,No,Sí,Desktop,33,22,10.93,6,36,100.0,20.39,70296.44
+10923,60.0,Mujer,Antofagasta,Plata,Orgánico,No,Sí,Mobile,25,19,12.1,6,43,67.0,21.53,35099.14
+10924,25.0,Hombre,Temuco,Premium,Referido,No,No,Mobile,32,14,7.6,6,44,100.0,13.23,97941.77
+10925,31.0,Hombre,Concepción,Plata,Orgánico,No,Sí,Desktop,26,21,12.14,4,48,61.0,38.28,64908.63
+10926,54.0,Mujer,La Serena,Premium,Email,No,No,Mobile,27,14,2.42,8,26,97.0,20.34,30972.78
+10927,20.0,Hombre,La Serena,Oro,Orgánico,No,No,Mobile,35,23,10.04,8,22,100.0,34.03,83773.04
+10928,55.0,Mujer,La Serena,Plata,Instagram,Sí,Sí,Mobile,30,22,19.28,5,37,74.0,24.62,85247.32
+10929,49.0,Otro,La Serena,Oro,Orgánico,No,No,Mobile,23,14,11.89,8,31,,39.84,65137.13
+10930,38.0,Hombre,La Serena,Plata,Referido,No,No,Desktop,17,20,10.21,5,43,77.0,24.07,53780.1
+10931,42.0,Hombre,Puerto Montt,Plata,Google Ads,No,No,Mobile,29,12,10.51,1,51,52.0,24.5,35198.63
+10932,26.0,Mujer,Puerto Montt,Oro,Referido,No,Sí,Mobile,43,36,12.92,7,27,97.0,39.58,88894.54
+10933,46.0,Mujer,Concepción,Premium,Orgánico,No,Sí,Tablet,36,26,12.47,8,6,99.0,17.92,62905.22
+10934,60.0,Mujer,Temuco,Plata,Google Ads,No,No,Desktop,28,14,5.71,5,20,86.0,41.92,47496.29
+10935,33.0,Mujer,La Serena,Plata,Orgánico,No,No,Desktop,28,24,10.17,3,50,61.0,35.66,34221.13
+10936,69.0,Hombre,Concepción,Oro,Instagram,No,Sí,Desktop,22,19,10.83,6,31,65.0,14.09,60600.75
+10937,20.0,Hombre,Concepción,Plata,Referido,No,No,Tablet,14,10,,1,63,43.0,35.93,41127.5
+10938,62.0,Hombre,Valparaíso,Bronce,Email,No,Sí,Mobile,21,7,2.28,3,61,62.0,42.6,39392.03
+10939,21.0,Hombre,Concepción,Plata,Orgánico,Sí,No,Desktop,29,20,13.5,6,0,90.0,11.97,53707.35
+10940,56.0,Mujer,Antofagasta,Bronce,Email,No,Sí,Mobile,16,1,5.55,4,66,55.0,36.6,21803.44
+10941,27.0,Hombre,Puerto Montt,Premium,Referido,No,No,Mobile,39,35,14.0,6,54,73.0,43.76,74306.44
+10942,68.0,Mujer,Santiago,Premium,Email,Sí,Sí,Mobile,50,34,17.04,10,20,100.0,9.65,131990.06
+10943,62.0,Hombre,Puerto Montt,Bronce,Instagram,No,No,Mobile,27,23,16.02,4,63,58.0,31.89,58378.34
+10944,69.0,Mujer,La Serena,Plata,Instagram,No,No,Mobile,26,22,8.81,9,19,97.0,35.36,60384.88
+10945,60.0,Mujer,Puerto Montt,Bronce,Orgánico,No,Sí,Mobile,24,20,10.16,9,46,76.0,47.11,48944.57
+10946,70.0,Hombre,Puerto Montt,Bronce,Instagram,No,Sí,Mobile,22,9,9.67,7,33,82.0,36.5,65296.08
+10947,70.0,Mujer,Antofagasta,Plata,Orgánico,No,Sí,Mobile,27,17,8.8,7,53,83.0,42.68,69886.22
+10948,43.0,Hombre,Concepción,Bronce,Email,Sí,Sí,Mobile,27,17,11.18,6,45,81.0,37.76,59087.67
+10949,63.0,Hombre,Santiago,Oro,Instagram,No,Sí,Desktop,35,23,9.92,6,45,85.0,29.37,56655.47
+10950,54.0,Hombre,Santiago,Plata,Google Ads,No,No,Desktop,17,2,2.17,7,70,98.0,24.29,27761.29
+10951,51.0,Hombre,Puerto Montt,Premium,Orgánico,No,No,Desktop,41,27,14.86,8,4,89.0,24.62,95541.51
+10952,27.0,Hombre,Valparaíso,Oro,Referido,No,No,Desktop,35,23,10.69,9,0,94.0,40.84,95300.42
+10953,37.0,Hombre,Valparaíso,Premium,Instagram,No,No,Mobile,43,27,8.5,6,44,63.0,32.62,73918.21
+10954,61.0,Mujer,Concepción,Premium,Orgánico,Sí,Sí,Mobile,45,41,16.03,5,22,90.0,32.23,96434.16
+10955,63.0,Mujer,Valparaíso,Oro,Instagram,No,Sí,Mobile,19,16,7.73,2,52,74.0,49.49,38371.04
+10956,50.0,Mujer,La Serena,Oro,Instagram,Sí,Sí,Desktop,35,16,10.17,8,0,100.0,35.07,92402.57
+10957,61.0,Mujer,Antofagasta,Plata,Email,No,No,Mobile,20,25,9.05,7,51,85.0,39.69,47117.24
+10958,59.0,Hombre,Concepción,Plata,Referido,No,Sí,Desktop,20,8,7.35,4,30,65.0,35.54,67646.57
+10959,40.0,Mujer,Rancagua,Oro,Instagram,No,No,Mobile,24,13,7.04,3,45,92.0,40.62,69786.27
+10960,55.0,Hombre,Santiago,Oro,Instagram,Sí,Sí,Mobile,44,30,16.83,12,0,100.0,20.2,107040.88
+10961,59.0,Mujer,Rancagua,Oro,Email,No,No,Mobile,25,2,5.81,3,79,81.0,35.02,32236.86
+10962,40.0,Mujer,Rancagua,Bronce,Orgánico,No,No,Mobile,25,12,7.92,7,51,85.0,30.33,62989.13
+10963,37.0,Hombre,Puerto Montt,Plata,Email,No,Sí,Mobile,33,10,10.83,8,61,80.0,19.29,60863.14
+10964,38.0,Hombre,Valparaíso,Bronce,Orgánico,No,No,Tablet,6,1,6.82,1,70,38.0,39.72,3000.0
+10965,48.0,Otro,Valparaíso,Oro,Google Ads,No,Sí,Mobile,30,15,9.25,6,10,94.0,27.55,40037.51
+10966,28.0,Hombre,Santiago,Bronce,Email,No,No,Mobile,16,7,10.67,5,44,74.0,17.06,40607.19
+10967,63.0,Hombre,Antofagasta,Bronce,Orgánico,No,No,Mobile,10,11,4.41,1,62,43.0,22.24,3288.24
+10968,35.0,Hombre,La Serena,Plata,Referido,Sí,No,Desktop,40,28,15.91,9,17,100.0,25.38,84384.83
+10969,70.0,Mujer,Valparaíso,Plata,Google Ads,No,Sí,Tablet,28,15,8.98,6,69,57.0,45.08,50051.8
+10970,50.0,Mujer,Concepción,Premium,Referido,No,No,Mobile,31,19,10.1,7,58,87.0,24.32,56548.05
+10971,59.0,Hombre,Santiago,Plata,Google Ads,Sí,No,Mobile,40,22,11.83,10,0,100.0,28.22,107640.92
+10972,28.0,Hombre,CONCEPCIÓN,Bronce,Orgánico,No,No,Mobile,57,32,10.8,5,38,71.0,29.2,127997.26
+10973,46.0,Hombre,Concepción,Oro,Email,No,No,Desktop,27,15,6.11,6,63,88.0,21.22,75772.05
+10974,24.0,Mujer,Temuco,Oro,Referido,No,Sí,Mobile,30,21,,4,31,77.0,33.62,56825.07
+10975,23.0,Mujer,Rancagua,Bronce,Instagram,No,Sí,Mobile,14,7,8.78,3,49,61.0,19.68,26061.29
+10976,30.0,Mujer,Temuco,Plata,Instagram,No,No,Mobile,17,1,7.15,4,44,53.0,13.54,45203.83
+10977,33.0,Mujer,Valparaíso,Oro,Instagram,No,No,Desktop,34,26,12.56,10,2,100.0,40.79,73767.41
+10978,68.0,Hombre,Rancagua,Oro,Email,No,No,Mobile,31,20,10.39,2,57,53.0,46.66,56467.69
+10979,32.0,Hombre,Santiago,Plata,Orgánico,No,No,Desktop,19,13,10.09,9,2,100.0,27.74,62556.67
+10980,20.0,Hombre,Santiago,Oro,Orgánico,No,No,Mobile,19,16,6.33,5,37,87.0,21.81,37030.03
+10981,67.0,Hombre,Santiago,Bronce,Referido,No,Sí,Desktop,30,26,6.92,4,70,64.0,34.78,48122.99
+10982,35.0,Hombre,Temuco,Plata,Instagram,No,No,Desktop,30,22,11.78,9,27,100.0,28.41,61055.12
+10983,25.0,Hombre,Antofagasta,Bronce,Referido,Sí,No,Mobile,25,18,10.13,7,48,87.0,33.76,58449.06
+10984,34.0,Hombre,Santiago,Oro,Google Ads,No,No,Mobile,23,12,6.64,4,0,69.0,38.59,68075.12
+10985,39.0,Mujer,Valparaíso,Plata,Orgánico,No,No,Desktop,13,8,0.75,3,36,68.0,34.71,13338.27
+10986,67.0,Hombre,Santiago,Bronce,Orgánico,Sí,No,Desktop,23,16,9.94,9,60,100.0,45.39,64196.07
+10987,49.0,Mujer,Puerto Montt,Premium,Google Ads,No,No,Desktop,29,21,14.11,6,50,97.0,12.65,70076.23
+10988,42.0,Hombre,Valparaíso,Bronce,Orgánico,No,No,Mobile,9,16,9.82,2,56,52.0,32.85,32209.77
+10989,67.0,Hombre,La Serena,Premium,Google Ads,Sí,No,Tablet,36,26,14.49,7,41,87.0,34.42,79608.3
+10990,37.0,Hombre,Valparaíso,Oro,Orgánico,No,Sí,Desktop,31,26,13.5,8,25,100.0,30.36,61905.37
+10991,34.0,Hombre,Antofagasta,Plata,Google Ads,No,Sí,Mobile,31,12,7.71,9,2,91.0,35.83,69097.02
+10992,45.0,Mujer,Antofagasta,Bronce,Instagram,No,Sí,Desktop,21,11,10.68,6,25,85.0,28.84,61392.73
+10993,38.0,Mujer,La Serena,Plata,Referido,No,Sí,Mobile,21,6,5.01,5,68,,55.11,23429.68
+10994,62.0,Mujer,La Serena,Bronce,Instagram,No,Sí,Mobile,31,18,13.6,6,34,87.0,38.86,76627.24
+10995,57.0,Mujer,Temuco,Oro,Referido,No,No,Mobile,19,20,6.96,3,24,75.0,57.38,33329.39
+10996,35.0,Mujer,Temuco,Bronce,Email,No,No,Mobile,22,13,5.83,3,49,65.0,49.76,44221.97
+10997,36.0,Mujer,Antofagasta,Oro,Orgánico,No,No,Desktop,37,30,12.59,9,33,98.0,37.77,102313.59
+10998,70.0,Mujer,Antofagasta,Bronce,Google Ads,No,Sí,Desktop,13,7,,1,60,48.0,48.82,23791.66
+10999,49.0,Mujer,Santiago,Plata,Email,Sí,No,Desktop,37,17,12.65,10,32,94.0,50.9,89640.05
+11000,55.0,Mujer,Valparaíso,Bronce,Instagram,No,No,Desktop,28,17,11.35,8,57,81.0,21.74,57762.7
+11001,45.0,Hombre,Santiago,Oro,Instagram,Sí,Sí,Mobile,38,27,16.54,9,0,100.0,49.13,105322.93
+11002,38.0,Mujer,Antofagasta,Bronce,Orgánico,No,Sí,Desktop,17,4,7.73,5,73,65.0,18.28,33654.34
+11003,27.0,Mujer,Valparaíso,Premium,Orgánico,No,No,Desktop,34,24,16.35,7,20,86.0,27.6,66345.79
+11004,46.0,Hombre,Concepción,Oro,Email,No,No,Mobile,27,13,5.36,12,0,100.0,16.45,73607.56
+11005,67.0,Mujer,Puerto Montt,Oro,Google Ads,No,No,Mobile,31,19,9.54,2,41,69.0,45.67,63226.25
+11006,23.0,Hombre,La Serena,Bronce,Google Ads,No,Sí,Desktop,20,29,8.02,9,50,83.0,31.13,52714.51
+11007,50.0,Mujer,Valparaíso,Plata,Instagram,No,No,Mobile,9,14,5.28,1,53,61.0,29.54,36404.71
+11008,22.0,Mujer,Temuco,plata ,Instagram,No,No,Mobile,26,15,10.41,1,79,48.0,44.63,51465.4
+11009,55.0,Hombre,Concepción,Oro,Email,No,No,Mobile,28,23,8.55,8,36,86.0,43.86,61221.55
+11010,34.0,Mujer,Santiago,Bronce,Orgánico,No,No,Mobile,22,16,12.38,7,66,72.0,21.16,73905.05
+11011,32.0,Hombre,Concepción,Bronce,Referido,No,No,Desktop,7,5,3.71,0,104,22.0,22.62,18694.68
+11012,67.0,Mujer,Temuco,Plata,Google Ads,No,Sí,Mobile,19,17,7.13,0,49,56.0,33.37,30620.91
+11013,62.0,Mujer,Puerto Montt,Bronce,Orgánico,No,No,Desktop,11,16,7.09,3,69,45.0,26.07,27551.79
+11014,,Hombre,Santiago,Bronce,Instagram,No,No,Mobile,19,11,7.56,8,60,63.0,47.91,33935.89
+11015,59.0,Mujer,Rancagua,Plata,Instagram,No,No,Mobile,15,17,10.84,5,7,73.0,39.38,31369.76
+11016,47.0,Mujer,La Serena,Plata,Referido,No,Sí,Desktop,35,19,9.7,3,62,64.0,54.15,52488.34
+11017,42.0,Hombre,La Serena,Plata,Orgánico,No,No,Mobile,36,20,9.69,7,42,89.0,23.34,84097.29
+11018,43.0,Mujer,Antofagasta,Premium,Referido,No,No,Mobile,31,21,7.35,8,41,76.0,26.62,61369.85
+11019,40.0,Hombre,Santiago,Plata,Instagram,No,No,Desktop,18,14,7.15,4,42,79.0,54.05,23164.37
+11020,66.0,Mujer,Concepción,Plata,Google Ads,Sí,No,Mobile,20,17,7.45,3,0,81.0,38.96,39713.99
+11021,32.0,Mujer,Santiago,Premium,Orgánico,No,Sí,Desktop,35,12,6.79,2,49,42.0,45.51,47065.28
+11022,44.0,Mujer,Antofagasta,Oro,Orgánico,No,No,Mobile,41,30,14.1,11,14,100.0,28.89,82657.83
+11023,52.0,Mujer,Valparaíso,Premium,Google Ads,No,Sí,Mobile,31,11,5.93,5,9,89.0,25.99,46442.74
+11024,26.0,Hombre,Puerto Montt,Oro,Referido,No,No,Mobile,31,14,7.45,11,26,100.0,34.33,81006.75
+11025,26.0,Hombre,Rancagua,Bronce,Orgánico,Sí,No,Desktop,32,12,11.48,7,22,84.0,17.66,79178.6
+11026,36.0,Mujer,Concepción,Oro,Orgánico,No,No,Mobile,35,29,13.69,4,29,58.0,32.09,77614.27
+11027,52.0,Hombre,La Serena,Plata,Orgánico,No,No,Mobile,19,8,6.99,6,63,55.0,26.31,28707.91
+11028,48.0,Hombre,Rancagua,Plata,Referido,Sí,Sí,Mobile,26,24,11.7,5,0,75.0,34.83,71027.35
+11029,42.0,Mujer,Valparaíso ,Plata,Referido,No,Sí,Desktop,23,14,7.91,8,11,94.0,31.59,41759.49
+11030,35.0,Mujer,La Serena,Bronce,Orgánico,No,No,Desktop,18,9,5.49,1,67,49.0,33.55,26790.61
+11031,35.0,Mujer,Puerto Montt,Bronce,Email,Sí,No,Desktop,25,16,10.07,5,41,62.0,39.33,48398.46
+11032,44.0,Hombre,Concepción,Bronce,Email,No,Sí,Mobile,22,11,7.11,1,72,42.0,51.62,41906.33
+11033,57.0,Hombre,Santiago,Plata,Instagram,No,No,Desktop,32,7,7.61,8,19,100.0,39.34,66028.06
+11034,70.0,Mujer,Puerto Montt,Bronce,Google Ads,No,No,Mobile,20,18,8.91,6,49,76.0,7.63,54621.01
+11035,54.0,Hombre,Antofagasta,Plata,Orgánico,No,Sí,Mobile,35,30,11.15,6,19,75.0,42.01,90155.53
+11036,39.0,Mujer,Santiago,Bronce,Google Ads,No,No,Desktop,4,3,9.47,6,45,71.0,36.24,30250.67
+11037,42.0,Hombre,Concepción,Bronce,Orgánico,Sí,Sí,Mobile,25,22,11.67,7,17,100.0,32.33,72389.34
+11038,50.0,Hombre,Temuco,Premium,Referido,Sí,No,Desktop,33,25,19.58,5,11,95.0,22.32,99718.76
+11039,35.0,Hombre,Puerto Montt,Plata,Instagram,Sí,Sí,Mobile,28,20,12.65,9,3,100.0,37.42,98558.57
+11040,43.0,Hombre,La Serena,Bronce,Instagram,No,Sí,Mobile,13,12,11.1,0,125,42.0,37.64,9142.91
+11041,42.0,Mujer,Antofagasta,Premium,Orgánico,No,Sí,Mobile,29,19,9.35,7,22,,26.69,63945.3
+11042,46.0,Mujer,La Serena,Bronce,Google Ads,No,No,Mobile,13,15,7.05,6,68,76.0,29.76,34467.84
+11043,65.0,Mujer,La Serena,Plata,Orgánico,No,No,Tablet,17,17,11.34,7,17,96.0,32.45,77783.48
+11044,22.0,Hombre,Temuco,Premium,Instagram,No,Sí,Mobile,59,27,17.31,10,2,100.0,47.85,132990.84
+11045,24.0,Hombre,Antofagasta,Bronce,Orgánico,No,Sí,Mobile,11,11,5.5,7,43,71.0,19.02,33574.4
+11046,56.0,Hombre,La Serena,Premium,Email,No,Sí,Mobile,40,23,14.61,7,56,97.0,32.78,61587.41
+11047,60.0,Mujer,La Serena,Plata,Orgánico,No,Sí,Mobile,22,12,8.35,4,53,62.0,45.92,59472.57
+11048,38.0,Hombre,Temuco,Plata,Email,No,Sí,Mobile,21,14,4.31,3,71,68.0,46.19,47909.29
+11049,25.0,Hombre,Santiago,Oro,Orgánico,No,No,Desktop,22,16,11.01,4,32,66.0,36.19,40656.22
+11050,39.0,Hombre,Concepción,Premium,Instagram,Sí,No,Mobile,40,24,11.51,9,12,100.0,12.36,87661.17
+11051,22.0,Hombre,Rancagua,Plata,Orgánico,No,Sí,Mobile,20,21,11.6,3,96,70.0,31.94,50563.97
+11052,,Mujer,Concepción,Bronce,Google Ads,No,Sí,Desktop,24,24,10.75,3,73,59.0,20.7,40768.82
+11053,49.0,Hombre,Rancagua,Bronce,Orgánico,No,No,Desktop,23,20,4.38,7,40,74.0,33.53,51043.15
+11054,29.0,Hombre,Concepción,Plata,Google Ads,No,Sí,Mobile,39,26,12.59,5,66,67.0,29.49,86761.63
+11055,36.0,Hombre,Rancagua,Plata,Email,Sí,No,Mobile,24,21,8.39,4,25,68.0,27.42,70006.54
+11056,31.0,Hombre,Concepción,Oro,Instagram,No,No,Tablet,42,32,12.25,10,15,100.0,26.87,78107.76
+11057,70.0,Hombre,Concepción,Bronce,Referido,No,Sí,Mobile,21,25,14.52,4,35,65.0,35.11,54742.1
+11058,20.0,Hombre,Santiago,Premium,Orgánico,No,No,Mobile,45,20,8.65,8,13,82.0,13.09,96782.05
+11059,25.0,Mujer,La Serena,Bronce,Google Ads,No,No,Tablet,24,3,4.88,5,65,54.0,37.97,57940.76
+11060,40.0,Hombre,Puerto Montt,Oro,Email,No,Sí,Mobile,37,23,8.3,9,35,93.0,32.86,89483.66
+11061,58.0,Mujer,Antofagasta,Oro,Email,No,No,Mobile,36,24,11.39,5,35,76.0,37.97,49311.34
+11062,49.0,Hombre,La Serena,Plata,Email,No,No,Desktop,29,12,4.3,8,45,73.0,37.34,40281.79
+11063,54.0,Mujer,Concepción,Oro,Orgánico,No,No,Mobile,27,18,6.54,5,31,,19.33,56648.25
+11064,51.0,Mujer,Rancagua,Bronce,Orgánico,Sí,No,Mobile,29,13,13.6,6,31,97.0,22.53,90237.29
+11065,,Mujer,Antofagasta,Plata,Referido,Sí,No,Desktop,27,12,12.25,4,89,63.0,46.16,39066.95
+11066,61.0,Hombre,Concepción,Oro,Instagram,No,Sí,Mobile,29,15,11.62,10,0,100.0,28.81,62133.19
+11067,50.0,Mujer,La Serena,Bronce,Email,Sí,No,Mobile,27,12,12.31,6,78,86.0,30.48,50249.24
+11068,68.0,Mujer,Concepción,Bronce,Google Ads,No,No,Mobile,24,12,9.01,10,9,97.0,23.18,43338.0
+11069,27.0,Otro,Rancagua,Plata,Orgánico,No,No,Desktop,16,17,4.84,7,23,79.0,23.61,46457.76
+11070,49.0,Hombre,Antofagasta,Plata,Orgánico,No,No,Tablet,29,18,7.29,6,51,77.0,48.9,52058.44
+11071,28.0,Hombre,Rancagua,Bronce,Orgánico,No,No,Mobile,15,15,2.29,5,70,53.0,55.42,33924.12
+11072,60.0,Mujer,,Plata,Google Ads,Sí,Sí,Desktop,31,23,13.73,7,9,96.0,18.94,73232.1
+11073,42.0,Hombre,Concepción,Plata,Orgánico,No,Sí,Mobile,30,15,11.11,11,42,100.0,41.57,86659.84
+11074,63.0,Hombre,Rancagua,Bronce,Email,No,Sí,Mobile,12,11,3.99,6,45,78.0,57.91,26009.97
+11075,25.0,Mujer,La Serena,Oro,Referido,No,Sí,Mobile,39,32,11.0,6,19,85.0,31.59,68209.18
+11076,68.0,Hombre,Rancagua,Premium,Email,No,No,Desktop,35,22,11.11,8,20,100.0,19.6,59857.05
+11077,58.0,Hombre,Puerto Montt,Oro,Instagram,Sí,No,Tablet,24,21,17.42,3,53,62.0,23.12,58140.95
+11078,21.0,Hombre,Antofagasta,Bronce,Orgánico,No,No,Desktop,6,1,6.74,2,51,56.0,32.68,10735.48
+11079,37.0,Hombre,Puerto Montt,Bronce,Orgánico,No,No,Desktop,14,15,12.02,3,51,50.0,13.1,37795.15
+11080,53.0,Mujer,Temuco,Plata,Orgánico,No,Sí,Tablet,28,17,11.02,6,52,88.0,26.09,59395.03
+11081,41.0,Mujer,Temuco,Oro,Google Ads,No,No,Mobile,46,32,11.45,6,55,65.0,49.03,96206.07
+11082,53.0,Hombre,Antofagasta,Oro,Email,No,Sí,Mobile,28,21,9.02,7,42,90.0,17.22,76409.99
+11083,33.0,Mujer,Concepción,Plata,Instagram,No,No,Mobile,24,18,12.35,4,50,67.0,26.49,41069.04
+11084,36.0,Mujer,Rancagua,Plata,Instagram,No,No,Mobile,37,18,13.2,8,26,75.0,13.97,82717.49
+11085,21.0,Mujer,Temuco,Bronce,Orgánico,No,Sí,Desktop,11,11,9.69,4,81,59.0,21.32,49629.53
+11086,59.0,Hombre,Rancagua,Oro,Email,No,No,Mobile,25,18,6.43,3,55,64.0,27.53,37691.39
+11087,18.0,Mujer,Antofagasta,Bronce,Orgánico,No,No,Mobile,26,13,14.04,7,24,80.0,46.23,49282.08
+11088,41.0,Hombre,Temuco,Oro,Referido,No,No,Tablet,36,31,9.92,8,64,86.0,32.02,63696.01
+11089,36.0,Hombre,La Serena,Bronce,Orgánico,No,Sí,Mobile,19,16,13.31,6,74,62.0,34.03,49730.11
+11090,30.0,Mujer,Valparaíso,Bronce,Instagram,No,Sí,Desktop,12,14,8.75,2,58,62.0,52.2,31455.41
+11091,66.0,Hombre,Concepción,Plata,Google Ads,No,No,Mobile,30,17,6.36,4,56,77.0,43.82,68405.0
+11092,70.0,Hombre,Concepción,Bronce,Orgánico,No,No,Mobile,20,15,7.74,5,29,64.0,39.77,49559.46
+11093,51.0,Mujer,Antofagasta,Bronce,Email,Sí,No,Mobile,26,26,8.22,6,21,75.0,35.71,53107.39
+11094,69.0,Hombre,Valparaíso,Oro,Orgánico,No,No,Mobile,33,24,14.77,9,20,100.0,23.98,72524.16
+11095,50.0,Mujer,La Serena,Oro,Instagram,No,No,Mobile,33,19,16.05,7,36,86.0,16.49,72814.46
+11096,24.0,Hombre,Concepción,Plata,Orgánico,No,No,Mobile,23,21,4.47,5,17,69.0,47.54,34777.79
+11097,29.0,Hombre,Antofagasta,Oro,Orgánico,No,Sí,Mobile,24,13,7.04,6,20,66.0,36.86,55086.68
+11098,41.0,Hombre,Puerto Montt,Bronce,Orgánico,No,Sí,Mobile,27,11,11.68,2,93,48.0,46.14,21005.23
+11099,34.0,Hombre,Antofagasta,Premium,Google Ads,Sí,Sí,Mobile,45,23,14.34,9,38,87.0,25.3,106334.68
+11100,52.0,Hombre,Temuco,Plata,Google Ads,Sí,Sí,Tablet,40,28,16.14,7,56,80.0,34.58,89531.16
+11101,49.0,Hombre,Antofagasta,Oro,Instagram,No,No,Mobile,23,16,7.87,7,36,89.0,47.48,41916.04
+11102,38.0,Hombre,Puerto Montt,Plata,Referido,No,No,Mobile,24,14,13.69,7,22,75.0,34.85,53750.04
+11103,49.0,Mujer,Puerto Montt,Bronce,Instagram,No,Sí,Mobile,10,12,8.16,2,55,38.0,35.65,39678.52
+11104,68.0,Hombre,Temuco,Bronce,Google Ads,No,No,Desktop,20,9,7.99,2,91,60.0,36.17,43284.12
+11105,66.0,Mujer,Concepción,Plata,Email,No,No,Mobile,30,12,6.74,7,56,90.0,39.22,62305.33
+11106,37.0,Mujer,La Serena,Premium,Orgánico,Sí,No,Mobile,50,30,14.58,5,57,59.0,27.54,122047.19
+11107,19.0,Hombre,Santiago,Plata,Orgánico,No,No,Mobile,26,18,,3,56,58.0,43.68,39358.51
+11108,52.0,Mujer,Valparaíso,Bronce,Instagram,Sí,No,Mobile,23,20,14.36,9,14,100.0,31.89,68757.86
+11109,21.0,Hombre,Puerto Montt,Oro,Instagram,Sí,No,Desktop,39,26,12.54,8,0,100.0,30.26,82116.66
+11110,48.0,Mujer,La Serena,Bronce,Referido,Sí,Sí,Desktop,14,13,10.11,4,3,64.0,34.05,63163.53
+11111,21.0,Hombre,Valparaíso,Bronce,Referido,No,Sí,Mobile,22,16,12.95,4,48,61.0,33.77,48246.26
+11112,49.0,Mujer,Puerto Montt,Bronce,Google Ads,No,No,Mobile,16,17,7.75,3,64,40.0,27.85,42260.34
+11113,28.0,Hombre,La Serena,Bronce,Instagram,No,Sí,Desktop,34,26,12.01,8,34,86.0,26.63,71922.29
+11114,68.0,Hombre,Puerto Montt,Bronce,Orgánico,No,No,Mobile,21,10,4.17,3,65,71.0,37.15,19231.66
+11115,47.0,Hombre,Temuco,Plata,Referido,No,Sí,Mobile,23,21,11.03,7,0,84.0,28.99,66212.75
+11116,21.0,Mujer,Rancagua,Plata,Instagram,Sí,No,Mobile,23,11,10.32,5,18,82.0,42.24,48401.16
+11117,67.0,Hombre,La Serena,Premium,Referido,No,No,Desktop,27,4,10.88,7,16,95.0,22.81,49446.54
+11118,21.0,Mujer,Concepción,Plata,Referido,No,Sí,Mobile,8,8,7.18,3,47,66.0,39.7,27779.87
+11119,27.0,Mujer,Puerto Montt,Plata,Orgánico,No,No,Desktop,21,12,5.47,7,44,74.0,35.6,37021.38
+11120,44.0,Mujer,Temuco,Plata,Google Ads,No,Sí,Mobile,37,23,10.27,6,15,80.0,32.63,94345.0
+11121,30.0,Mujer,Rancagua,Bronce,Email,No,No,Tablet,23,21,9.07,8,57,78.0,46.0,46804.46
+11122,21.0,Hombre,Concepción,Bronce,Google Ads,No,Sí,Desktop,11,6,7.2,5,93,76.0,35.17,24807.67
+11123,40.0,Hombre,Puerto Montt,Premium,Orgánico,Sí,No,Mobile,43,19,13.09,9,0,100.0,30.21,99639.36
+11124,39.0,Mujer,Concepción,Bronce,Email,No,No,Mobile,18,18,4.02,7,70,64.0,44.9,42369.71
+11125,64.0,Hombre,Concepción,Plata,Orgánico,No,Sí,Mobile,16,8,4.1,3,40,43.0,33.5,31434.62
+11126,54.0,Mujer,La Serena,Bronce,Email,No,No,Desktop,19,11,9.36,3,78,66.0,30.21,25102.61
+11127,,Mujer,Concepción,Plata,Google Ads,No,Sí,Mobile,31,25,17.47,10,25,94.0,34.82,72367.36
+11128,45.0,Mujer,Concepción,Plata,Orgánico,Sí,No,Mobile,32,13,9.91,5,32,78.0,48.38,65804.51
+11129,59.0,Mujer,Concepción,Plata,Instagram,Sí,No,Mobile,35,24,16.45,8,7,100.0,29.05,93155.05
+11130,45.0,Hombre,Temuco,Bronce,Referido,Sí,No,Mobile,18,25,14.42,3,37,58.0,23.68,48268.09
+11131,47.0,Hombre,Rancagua,Oro,Email,No,Sí,Mobile,29,24,8.34,5,45,87.0,34.13,56002.03
+11132,69.0,Hombre,La Serena,Plata,Referido,Sí,No,Tablet,29,10,10.06,7,52,100.0,17.12,57896.11
+11133,29.0,Hombre,Santiago,Plata,Referido,No,Sí,Desktop,26,24,10.27,8,73,78.0,45.68,70665.96
+11134,63.0,Mujer,Puerto Montt,Plata,Email,No,No,Mobile,26,17,11.27,3,71,54.0,25.58,45799.53
+11135,41.0,Hombre,La Serena,Bronce,Orgánico,No,Sí,Tablet,25,9,7.49,6,68,72.0,31.94,60225.85
+11136,42.0,Mujer,Temuco,Oro,Google Ads,No,No,Mobile,25,12,10.2,5,68,89.0,29.23,62680.34
+11137,67.0,Hombre,Puerto Montt,Premium,Google Ads,Sí,No,Mobile,41,28,22.42,6,24,100.0,36.06,95877.95
+11138,56.0,Mujer,Temuco,Premium,Referido,No,No,Mobile,38,22,10.28,7,24,79.0,23.04,90540.49
+11139,26.0,Mujer,Concepción,Premium,Google Ads,No,Sí,Desktop,37,16,15.49,9,0,100.0,43.22,113018.35
+11140,46.0,Mujer,Concepción,Oro,Orgánico,No,No,Mobile,40,21,12.97,5,25,75.0,39.56,68066.66
+11141,26.0,Mujer,Temuco,Plata,Referido,No,No,Desktop,17,9,5.76,8,50,88.0,24.73,48896.06
+11142,32.0,Hombre,Puerto Montt,Bronce,Instagram,No,Sí,Mobile,14,11,7.33,3,53,41.0,27.68,39134.86
+11143,66.0,Hombre,Rancagua,Premium,Instagram,No,Sí,Mobile,22,19,6.81,4,47,78.0,45.3,39826.17
+11144,55.0,Mujer,Valparaíso,Oro,Orgánico,No,No,Tablet,40,18,6.83,5,58,71.0,31.95,44543.81
+11145,53.0,Hombre,Rancagua,Bronce,Google Ads,No,Sí,Desktop,12,1,4.75,2,68,45.0,32.93,30840.75
+11146,26.0,Hombre,Concepción,Premium,Email,No,Sí,Desktop,46,32,16.68,14,15,100.0,22.5,113812.66
+11147,63.0,Hombre,Santiago,Plata,Email,No,No,Tablet,23,26,11.48,1,73,55.0,35.35,32434.7
+11148,60.0,Mujer,Santiago,Bronce,Orgánico,No,Sí,Mobile,19,15,10.35,11,23,100.0,29.42,27472.44
+11149,57.0,Hombre,Rancagua,Premium,Google Ads,Sí,No,Desktop,48,33,18.38,11,0,100.0,28.7,106502.14
+11150,35.0,Mujer,Concepción,Plata,Google Ads,No,No,Mobile,23,21,11.58,8,55,82.0,51.18,41764.08
+11151,20.0,Hombre,Concepción,Plata,Google Ads,No,Sí,Mobile,32,20,11.61,8,59,66.0,39.56,77012.24
+11152,27.0,Hombre,Concepción,Plata,Referido,Sí,No,Desktop,25,24,15.99,9,13,94.0,36.21,77841.11
+11153,39.0,Mujer,Antofagasta,Plata,Orgánico,Sí,Sí,Desktop,25,29,14.27,9,37,100.0,25.55,76821.69
+11154,38.0,Mujer,Rancagua,Bronce,Referido,No,No,Mobile,22,16,7.64,6,21,83.0,43.59,39538.69
+11155,56.0,Mujer,La Serena,Bronce,Email,No,Sí,Mobile,19,6,9.59,4,76,45.0,33.26,26908.2
+11156,33.0,Hombre,Antofagasta,Oro,google ads,Sí,Sí,Mobile,39,26,16.54,10,0,100.0,47.26,98172.22
+11157,44.0,Hombre,Temuco,Plata,Referido,No,Sí,Desktop,21,12,8.65,7,48,68.0,47.75,58609.47
+11158,45.0,Hombre,Valparaíso,Oro,Google Ads,No,No,Mobile,25,9,10.29,7,35,75.0,37.36,48494.13
+11159,46.0,Mujer,,Bronce,Instagram,No,Sí,Mobile,10,18,7.7,1,59,56.0,42.82,36347.73
+11160,53.0,Mujer,La Serena,Plata,Referido,Sí,Sí,Desktop,29,23,10.31,6,56,90.0,21.34,68342.59
+11161,70.0,Mujer,Santiago,Bronce,Google Ads,No,No,Mobile,18,2,5.6,8,23,100.0,39.54,49232.27
+11162,64.0,Hombre,Antofagasta,Bronce,Email,No,Sí,Desktop,17,9,5.26,0,69,47.0,35.21,31638.7
+11163,20.0,Mujer,Concepción,Plata,Orgánico,No,No,Mobile,15,20,4.99,6,31,63.0,41.24,40876.62
+11164,47.0,Hombre,Rancagua,Plata,Google Ads,No,No,Mobile,18,13,7.82,1,80,62.0,40.84,32339.27
+11165,52.0,Hombre,Concepción,Bronce,Instagram,Sí,No,Desktop,28,20,14.48,9,43,100.0,44.42,57542.67
+11166,58.0,Hombre,Rancagua,Oro,Orgánico,No,Sí,Mobile,20,15,7.74,5,46,65.0,34.28,56194.33
+11167,49.0,Hombre,Valparaíso,Plata,Email,No,No,Desktop,32,25,9.73,5,53,64.0,32.09,57790.71
+11168,22.0,Otro,Santiago,Oro,Instagram,No,Sí,Mobile,27,15,,4,52,64.0,29.74,44782.98
+11169,32.0,Mujer,Antofagasta,Bronce,Email,No,No,Tablet,5,3,2.02,6,33,85.0,33.67,10568.94
+11170,37.0,Mujer,Valparaíso,Bronce,Instagram,No,No,Mobile,19,14,5.74,10,46,99.0,35.41,35301.74
+11171,23.0,Mujer,Antofagasta,Plata,Orgánico,Sí,Sí,Desktop,26,9,8.73,4,38,80.0,21.48,83774.19
+11172,32.0,Hombre,Valparaíso,Premium,Referido,No,No,Mobile,34,17,11.51,7,19,85.0,29.94,78278.59
+11173,37.0,Hombre,Santiago,Plata,Google Ads,No,Sí,Mobile,18,16,11.02,2,64,45.0,49.02,29410.7
+11174,42.0,Mujer,Concepción,Plata,Google Ads,No,Sí,Mobile,24,21,11.67,5,34,67.0,54.89,36050.27
+11175,70.0,Mujer,Antofagasta,Bronce,Google Ads,No,No,Desktop,17,12,,8,0,100.0,25.67,42876.4
+11176,52.0,Hombre,Valparaíso,Oro,Email,Sí,No,Tablet,27,31,14.34,6,41,92.0,23.74,94245.61
+11177,22.0,Hombre,Rancagua,Plata,Orgánico,Sí,Sí,mobile,41,25,10.32,10,0,100.0,34.45,80595.14
+11178,44.0,Mujer,Concepción,Plata,Instagram,No,Sí,Desktop,24,18,12.3,7,51,68.0,37.67,68407.51
+11179,48.0,Mujer,Santiago,Oro,Instagram,Sí,No,Desktop,30,12,10.61,11,0,100.0,27.93,68405.53
+11180,54.0,Mujer,Antofagasta,Bronce,Orgánico,No,Sí,Desktop,18,7,9.47,4,62,70.0,46.89,29015.35
+11181,42.0,Hombre,Valparaíso,Bronce,Google Ads,No,Sí,Mobile,15,8,5.6,4,63,52.0,16.97,41037.37
+11182,50.0,Hombre,Concepción,Oro,Orgánico,No,No,Desktop,28,26,3.69,5,84,61.0,40.71,41802.79
+11183,55.0,Hombre,La Serena,Bronce,Instagram,No,Sí,Mobile,11,14,6.2,4,77,56.0,35.58,28107.38
+11184,64.0,Hombre,Puerto Montt,Plata,Orgánico,No,No,Tablet,27,27,10.5,6,48,86.0,17.61,86174.77
+11185,62.0,Hombre,La Serena,Plata,Orgánico,No,No,Tablet,18,8,9.27,7,0,87.0,38.17,48974.63
+11186,,Hombre,Concepción,Bronce,Orgánico,No,No,Mobile,16,10,7.85,5,64,81.0,26.23,50488.48
+11187,65.0,Mujer,Valparaíso,Oro,Orgánico,Sí,No,Desktop,33,31,11.56,4,31,80.0,18.42,67231.8
+11188,44.0,Mujer,La Serena,Bronce,Orgánico,No,No,Mobile,18,11,5.01,2,73,45.0,41.47,19246.43
+11189,33.0,Hombre,La Serena,Plata,Orgánico,No,Sí,Mobile,20,4,7.15,4,55,52.0,40.14,63610.31
+11190,28.0,Mujer,Valparaíso,Plata,Google Ads,No,No,Mobile,20,17,7.81,2,49,58.0,16.75,40158.69
+11191,58.0,Mujer,Rancagua,Bronce,Email,Sí,Sí,Mobile,13,10,6.29,8,24,87.0,51.44,70593.36
+11192,66.0,Mujer,La Serena,Bronce,Google Ads,Sí,Sí,Mobile,32,26,15.22,9,37,90.0,19.79,73027.9
+11193,38.0,Hombre,Antofagasta,Oro,Orgánico,No,Sí,Mobile,25,6,13.46,4,78,66.0,22.25,62257.63
+11194,58.0,Mujer,Temuco,Bronce,Instagram,No,Sí,Desktop,11,13,1.67,6,80,81.0,38.69,33148.67
+11195,70.0,Mujer,Concepción,Plata,Google Ads,Sí,Sí,Desktop,31,36,10.67,11,54,97.0,18.31,84103.08
+11196,70.0,Mujer,La Serena,Plata,Google Ads,No,No,Mobile,16,12,5.04,8,46,67.0,17.17,21626.4
+11197,57.0,Hombre,Puerto Montt,Plata,Google Ads,No,No,Desktop,27,9,7.51,4,81,68.0,33.77,43283.35
+11198,26.0,Hombre,Valparaíso,Plata,Referido,No,No,Tablet,35,17,8.11,4,61,54.0,20.27,62461.28
+11199,29.0,Hombre,La Serena,Oro,Instagram,No,No,Mobile,27,11,7.5,8,14,100.0,26.84,73878.54
+11200,21.0,Hombre,Valparaíso,Plata,Orgánico,No,Sí,Mobile,32,12,11.83,5,57,74.0,42.03,68483.39
