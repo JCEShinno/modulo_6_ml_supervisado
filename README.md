@@ -64,8 +64,8 @@ Comparación final de modelos en conjunto de prueba:
 - `data/raw/clientes_ecommerce_ml_raw.csv`
 - `data/interim/clientes_ecommerce_ml_limpio.csv`
 - `data/interim/resumen_outliers_ml.csv`
-- `outputs/` con visualizaciones de métricas y comparación de modelos
-- `docs/informe_final_modulo_6_ml.pdf`
+- `outputs/comparacion_final_modelos.png` 
+- `docs/Proyecto Módulo 6 Predicción inteligente de gasto en clientes e-commerce.pdf`
 
 ## Conclusión
 El proyecto permitió implementar un pipeline completo de aprendizaje supervisado de punta a punta, comparando distintos algoritmos y seleccionando un modelo final con base en métricas objetivas de desempeño. Gradient Boosting fue elegido como la mejor alternativa final por su mejor equilibrio entre error predictivo y capacidad explicativa.
